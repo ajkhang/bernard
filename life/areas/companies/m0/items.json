@@ -1,0 +1,34 @@
+[
+  {
+    "id": "m0-001",
+    "fact": "Stablecoin/crypto company",
+    "category": "status",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "m0-002",
+    "fact": "Series B funding stage",
+    "category": "milestone",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "m0-003",
+    "fact": "Andrew is COO",
+    "category": "relationship",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "m0-004",
+    "fact": "IT policy requires approval for new Slack app installations",
+    "category": "status",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  }
+]

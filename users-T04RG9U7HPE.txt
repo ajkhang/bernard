@@ -1,0 +1,157 @@
+Name                   ID           Bot?  Email                                           Deleted?  Restricted?
+                                                                                                    
+accessowl              U05ASJ9HQLF  bot                                                   deleted   
+actioner               U06JDRLEZ5Z  bot                                                   deleted   
+adam.koyuncu           U0A7P0B5AFJ        adam.koyuncu@m0.xyz                                       
+agustin.zulliger       U051A0AFN22        agustin.zulliger@m0.xyz                                   
+alessandro.antonelli   U082XMZAZ61        alessandro.antonelli@m0.xyz                               
+alessandro.rosmo       U05Q5CK9GUX        alessandro.rosmo@m0.xyz                                   
+andrei.evdokimov       U04SBQ7DBAS        andrei.evdokimov@m0.xyz                                   
+andrew.khang           U058J5MH160        andrew.khang@m0.xyz                                       
+antje.bechler          U04R701T95M        antje.bechler@m0.xyz                                      
+antonina.norair        U04V4HUU5E3        antonina.norair@m0.xyz                                    
+assist                 U068G0T2NPM  bot                                                             
+atlas                  U06SRF9LZRQ  bot                                                             
+atlassian_compass      U06V112QP6Z  bot                                                             
+bank_connector         U07U5H1E5HC  bot                                                             
+blockaid_platform      U0A2HDGQ3K4  bot                                                             
+carloalberto.verona    U0704FCAH4M        carloalberto.verona@m0.xyz                                
+chelsea.benami         U092LBPB9Q9        chelsea.benami@m0.xyz                                     
+confluence             U04SLNYJU2H  bot                                                             
+connor.lango           U09BXE6EXPH        connor.lango@m0.xyz                                       
+conrado.canas          U05UU82T0EL        conrado.canas@m0.xyz                                      
+dashboard.backend      U07MAUJPMQF  bot                                                             
+data_notifications     U06J1KLDWH0  bot                                                             
+deactivateduser116011  U05C0S9GH45        deactivateduser116011-mzerolabs@slack-corp.com  deleted   
+deactivateduser152601  U0830ETF0D9        deactivateduser152601-mzerolabs@slack-corp.com  deleted   
+deactivateduser19187   U069RJH8L5Q        deactivateduser19187-mzerolabs@slack-corp.com   deleted   
+deactivateduser206802  U08715DFC13        deactivateduser206802-mzerolabs@slack-corp.com  deleted   
+deactivateduser20996   U08C8EEATLZ        deactivateduser20996-mzerolabs@slack-corp.com   deleted   
+deactivateduser236072  U05QH1K32P7        deactivateduser236072-mzerolabs@slack-corp.com  deleted   
+deactivateduser274767  U04S035EYN6        deactivateduser274767-mzerolabs@slack-corp.com  deleted   
+deactivateduser287863  U05G3CV3WLW        deactivateduser287863-mzerolabs@slack-corp.com  deleted   
+deactivateduser32685   U05KPK1FH5G        deactivateduser32685-mzerolabs@slack-corp.com   deleted   
+deactivateduser332247  U06MXSUPG56        deactivateduser332247-mzerolabs@slack-corp.com  deleted   
+deactivateduser346546  U04S198D9RU        deactivateduser346546-mzerolabs@slack-corp.com  deleted   
+deactivateduser35226   U05GNQBQ201        deactivateduser35226-mzerolabs@slack-corp.com   deleted   
+deactivateduser376923  U06K1LRRL1W        deactivateduser376923-mzerolabs@slack-corp.com  deleted   
+deactivateduser380777  U04RW7U5AGL        deactivateduser380777-mzerolabs@slack-corp.com  deleted   
+deactivateduser385785  U04RTBR3FU7        deactivateduser385785-mzerolabs@slack-corp.com  deleted   
+deactivateduser392771  U04RMFQLFV0        deactivateduser392771-mzerolabs@slack-corp.com  deleted   
+deactivateduser393214  U05A6197V6Y        deactivateduser393214-mzerolabs@slack-corp.com  deleted   
+deactivateduser399047  U065655SC74        deactivateduser399047-mzerolabs@slack-corp.com  deleted   
+deactivateduser406784  U04SY8WEVG8        deactivateduser406784-mzerolabs@slack-corp.com  deleted   
+deactivateduser415902  U05K6KSNR6J        deactivateduser415902-mzerolabs@slack-corp.com  deleted   
+deactivateduser41791   U04RTH3BXJT        deactivateduser41791-mzerolabs@slack-corp.com   deleted   
+deactivateduser432455  U05ENEXB0U9        deactivateduser432455-mzerolabs@slack-corp.com  deleted   
+deactivateduser452226  U04RDRGPNR0        deactivateduser452226-mzerolabs@slack-corp.com  deleted   
+deactivateduser470133  U08KWEYJ94Z        deactivateduser470133-mzerolabs@slack-corp.com  deleted   
+deactivateduser487265  U088EDQ4GKD        deactivateduser487265-mzerolabs@slack-corp.com  deleted   
+deactivateduser495282  U04S2T8PT70        deactivateduser495282-mzerolabs@slack-corp.com  deleted   
+deactivateduser49726   U04SL0PMXUL        deactivateduser49726-mzerolabs@slack-corp.com   deleted   
+deactivateduser499656  U05PZR1S2KZ        deactivateduser499656-mzerolabs@slack-corp.com  deleted   
+deactivateduser520757  U08PSH1D75G        deactivateduser520757-mzerolabs@slack-corp.com  deleted   
+deactivateduser534974  U04UJU1FU5D        deactivateduser534974-mzerolabs@slack-corp.com  deleted   
+deactivateduser538255  U04S3GJV3QQ        deactivateduser538255-mzerolabs@slack-corp.com  deleted   
+deactivateduser53925   U065DAKS20P        deactivateduser53925-mzerolabs@slack-corp.com   deleted   
+deactivateduser550762  U0513MS2KK9        deactivateduser550762-mzerolabs@slack-corp.com  deleted   
+deactivateduser556747  U04SQ8F475G        deactivateduser556747-mzerolabs@slack-corp.com  deleted   
+deactivateduser659744  U095T9HDYLR        deactivateduser659744-mzerolabs@slack-corp.com  deleted   
+deactivateduser667021  U04SPSA9KT5        deactivateduser667021-mzerolabs@slack-corp.com  deleted   
+deactivateduser675927  U04RJHLHF6Z        deactivateduser675927-mzerolabs@slack-corp.com  deleted   
+deactivateduser687595  U04SA6DFM7E        deactivateduser687595-mzerolabs@slack-corp.com  deleted   
+deactivateduser695000  U04S30S0YJ3        deactivateduser695000-mzerolabs@slack-corp.com  deleted   
+deactivateduser698906  U092J0MBB6U        deactivateduser698906-mzerolabs@slack-corp.com  deleted   
+deactivateduser708250  U083CJC7DCH        deactivateduser708250-mzerolabs@slack-corp.com  deleted   
+deactivateduser719297  U06G19QEEDU        deactivateduser719297-mzerolabs@slack-corp.com  deleted   
+deactivateduser72511   U06J374AGDR        deactivateduser72511-mzerolabs@slack-corp.com   deleted   
+deactivateduser758052  U04SH3PEESF        deactivateduser758052-mzerolabs@slack-corp.com  deleted   
+deactivateduser797539  U05AGTVQL2F        deactivateduser797539-mzerolabs@slack-corp.com  deleted   
+deactivateduser818197  U055B7RDTSP        deactivateduser818197-mzerolabs@slack-corp.com  deleted   
+deactivateduser823964  U04RMC44951        deactivateduser823964-mzerolabs@slack-corp.com  deleted   
+deactivateduser834398  U04RU5JM215        deactivateduser834398-mzerolabs@slack-corp.com  deleted   
+deactivateduser869045  U04RMC3UWP5        deactivateduser869045-mzerolabs@slack-corp.com  deleted   
+deactivateduser893521  U04RQ01LBEY        deactivateduser893521-mzerolabs@slack-corp.com  deleted   
+deactivateduser904038  U09L2BFV0DT        deactivateduser904038-mzerolabs@slack-corp.com  deleted   
+deactivateduser908272  U04S5SSJLS1        deactivateduser908272-mzerolabs@slack-corp.com  deleted   
+deactivateduser916546  U04S8G5PMDZ        deactivateduser916546-mzerolabs@slack-corp.com  deleted   
+deactivateduser923394  U04RTTNRLLF        deactivateduser923394-mzerolabs@slack-corp.com  deleted   
+deactivateduser962481  U04S5JAE953        deactivateduser962481-mzerolabs@slack-corp.com  deleted   
+denali.marsh           U09UBEA9N5D        denali.marsh@m0.xyz                                       
+edgar.caceres856       U090C1FHGNT        edgar.caceres@m0.xyz                                      
+emily.hitchins         U0A1KNF3916        emily.hitchins@m0.xyz                                     
+federico.daffina       U0A0REAV8AY        federico.daffina@m0.xyz                                   
+fireblocks             U09CB99PLTB  bot                                                             
+florian.preusner       U05CCDQHN4D        florian.preusner@m0.xyz                         deleted   
+forms                  U08CY6MHASE  bot                                                             
+frederic.hannesen      U06LDNR9LP9        frederic.hannesen@m0.xyz                        deleted   
+github                 U052333NBU3  bot                                                             
+gitlab                 U04U2DEDWV6  bot                                                             
+gitlabfailedjobnotifi  U06G422Q5C1  bot                                                             
+google_calendar        U04RUC417CP  bot                                                             
+google_sheets_workflo  U06JEH80T6J  bot                                                             
+googledrive            U04S32LPR71  bot                                                             
+grafana                U070EP5NS15  bot                                                             
+greg                   U04RMFQBZ5G        greg@m0.xyz                                               
+groupupdater           U08FYRAUJNQ  bot                                                             
+hubert.newell          U073S1N8RD1        hubert.newell@m0.xyz                            deleted   
+hubspot                U06J95U7D41  bot                                                             
+ian.harvey             U09Q97PRCMU        ian.harvey@m0.xyz                                         
+ihor.protasovytskyi    U07C5Q7V0LR        ihor.protasovytskyi@m0.xyz                      deleted   
+iryna.hubernska        U07D1G5T86P        iryna.hubernska@m0.xyz                                    
+jacob.laufer           U06QKGE95QD        jacob.laufer@m0.xyz                                       
+jacqueline.to          U06CPF8JKPE        jacqueline.to@m0.xyz                                      
+jirabot                U04SYJEL6GY  bot                                                             
+joao.reginatto         U05D3B6DQ05        joao.reginatto@m0.xyz                                     
+jonathan.alvarez       U088BM9V0SZ        jonathan.alvarez@m0.xyz                                   
+jordan.hall            U087RTVJ9PA        jordan.hall@m0.xyz                                        
+kurtis.streutker       U08BTT74K1T        kurtis.streutker@m0.xyz                                   
+linear                 U08REPT6A2G  bot                                                             
+luca                   U04R701NGBZ        luca@m0.xyz                                               
+lyle.lacour            U09CQFFLPS4        lyle.lacour@m0.xyz                                        
+m0_bot                 U09135YPH0S  bot                                                             
+marco.hinz             U04RMJCTXGS        marco.hinz@m0.xyz                                         
+marlowe.johnson        U08319YNQQJ        marlowe.johnson@m0.xyz                                    
+matt.jeye              U09S76CJB7B        matt.jeye@m0.xyz                                          
+matthew.struble        U09QQ68MRCH        matthew.struble@m0.xyz                                    
+mportaleventssepolia   U082VS9G58X  bot                                                             
+mportalnotificationsm  U08FFEJVAJV  bot                                                             
+mxon_hooks             U0A1XCU236G  bot                                                             
+mxon_notifications     U0725FLB9EF  bot                                                             
+myapp                  U07BVS10P1T  bot                                                             
+nicole.schaefer        U07662VDH09        nicole.schaefer@m0.xyz                                    
+notificationsmusdbot   U09F5QF94AY  bot                                                             
+notion                 U08HZ4VH92R  bot                                                             
+opsgenie_for_alerting  U05KP76V67R  bot                                                             
+pablo.mora             U0A9L6ZTFHA        pablo.mora@m0.xyz                                         
+paul.barskiy           U08LHHP34CB        paul.barskiy@m0.xyz                                       
+personiobot            U04T1M3LKJR  bot                                                             
+philip.tuomey          U09URBWT2EA        philip.tuomey@m0.xyz                                      
+pierrick.turelier      U066QNBT65Q        pierrick.turelier@m0.xyz                                  
+proposalnotifications  U07FGJ2354Z  bot                                                             
+protocolnotifications  U071J4F7CTF  bot                                                             
+ryan.hendrickson       U08DA5XLL6R        ryan.hendrickson@m0.xyz                                   
+sentry                 U067N9DS9EY  bot                                                             
+shred                  U09MZV03X09  bot                                                             
+simplepoll             U04RMAZUQ3V  bot                                                             
+slackbot               USLACKBOT                                                                    
+spv.os                 U07EXCU8QTE  bot                                                             
+statusio               U04TG086J95  bot                                                             
+statuspage             U06E11P30TH  bot                                                             
+streak                 U08BH3RSRGS  bot                                                   deleted   
+tenderly               U083TNX2AQK  bot                                                             
+thomas.scott           U095M2NPE3A        thomas.scott@m0.xyz                             deleted   
+tom.reppelin           U08J230SDTJ        tom.reppelin@m0.xyz                                       
+ttgnotifications       U071T2RPQG4  bot                                                             
+usualmnotifications    U084SP9HEGL  bot                                                             
+uyoyou.uwuseba         U09RSK8Q91U        uyoyou.uwuseba@m0.xyz                                     
+wb_bot_a04uq70sfln     U04V9DSEQ8Z  bot                                                   deleted   
+wf_bot_a061hf0qm0q     U060MTUH11U  bot                                                   deleted   
+wf_bot_a07ewv7mq92     U07EWVAP1HA  bot                                                             
+wf_bot_a07kdv681mw     U07JN9H36N9  bot                                                             
+wf_bot_a08mu6c247r     U08NCFHPRJQ  bot                                                             
+wf_bot_a08nqf4tw5r     U08N699AXGX  bot                                                             
+wf_bot_a08ns8nngp5     U08NZUC3JHF  bot                                                             
+wf_bot_a08pv914ngj     U08PB3H0E95  bot                                                             
+wf_bot_a090638l2du     U090QTGQAFK  bot                                                   deleted   
+zapier                 U06JL6YPSSE  bot                                                             

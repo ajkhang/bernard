@@ -1,0 +1,66 @@
+[
+  {
+    "id": "andrew-001",
+    "fact": "COO at M0",
+    "category": "status",
+    "timestamp": "2026-01-28",
+    "status": "superseded",
+    "supersededBy": "andrew-006"
+  },
+  {
+    "id": "andrew-006",
+    "fact": "Deputy COO at M0, reports to Luca Prosperi (CEO)",
+    "category": "status",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-007",
+    "fact": "Being evaluated for promotion to COO later in 2026",
+    "category": "milestone",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-008",
+    "fact": "Development focus: executive presence, strategic depth, confidence to challenge leadership",
+    "category": "status",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-002",
+    "fact": "Based in EST timezone (New York)",
+    "category": "preference",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-003",
+    "fact": "Prefers direct, no-fluff communication style",
+    "category": "preference",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-004",
+    "fact": "Primary communication channel is Telegram",
+    "category": "preference",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "andrew-005",
+    "fact": "Cannot add Slack apps without IT approval at M0",
+    "category": "status",
+    "timestamp": "2026-01-28",
+    "status": "active",
+    "supersededBy": null
+  }
+]

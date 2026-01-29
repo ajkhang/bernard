@@ -1,0 +1,34 @@
+[
+  {
+    "id": "luca-001",
+    "fact": "CEO and Co-Founder of M0",
+    "category": "status",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "luca-002",
+    "fact": "Andrew's direct manager",
+    "category": "relationship",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "luca-003",
+    "fact": "Values hard work, high quality, sharpness, and confidence to challenge him",
+    "category": "preference",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  },
+  {
+    "id": "luca-004",
+    "fact": "Dislikes yes-men and people who suck up",
+    "category": "preference",
+    "timestamp": "2026-01-29",
+    "status": "active",
+    "supersededBy": null
+  }
+]

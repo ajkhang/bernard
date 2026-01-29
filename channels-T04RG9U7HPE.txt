@@ -1,0 +1,867 @@
+ID           Arch  What
+C04RMARH8LB  arch  #team-platform (archived)
+C04RSEUBMRP  -     #general
+C04RTAHCZAP  arch  #team-data (archived)
+C04RTANER5Z  arch  🔒 people-archived (archived)
+C04RU4QSNGJ  -     🔒 ecosystem-leadership
+C04RXGP9BMK  arch  #m0-setup (archived)
+C04S63ERTED  arch  #it_squad_asset (archived)
+C04SC482V44  arch  #it_data_streaming (archived)
+C04SG2BG2JD  arch  🔒 leadership-committee-drop-topics (archived)
+C04SLPEQAG5  arch  #team-devops (archived)
+C04SNCBM6KB  arch  🔒 m0_foundation_operations_old (archived)
+C04SW6KTRBR  -     #team-backend
+C04SY79TC7R  -     #it-qa-acceptance-tests
+C04T2656LRF  arch  #team_product (archived)
+C04TM71SQN6  -     #helpdesk
+C04TV03T0MS  arch  #design (archived)
+C04TX4MAH0A  arch  #questions-drop (archived)
+C04U1UX45EE  arch  #it_data_validation (archived)
+C04U2AN14DC  arch  #it_data_notifications (archived)
+C04U94JAWE5  -     #status-gitlab
+C04UPES8SJK  arch  #platform_release (archived)
+C0501017LRY  -     #engineering
+C051PGD6J2J  -     #random
+C052JK1BARF  -     #media
+C052UE102SF  arch  #remote_work_office (archived)
+C052UUH6QNB  arch  #m0ckchain (archived)
+C052UVDB7FA  -     #notifications-pull-requests
+C0537TZA789  arch  #it_klarna_bank_access (archived)
+C054EEQ9HQX  arch  #team_frontend-web2 (archived)
+C0599MGSZ5F  arch  🔒 legal-matters (archived)
+C059S0Q20VA  -     #office-berlin
+C05ANCH54Q1  arch  #kicker-friends (archived)
+C05ASSCGPAA  arch  🔒 presence-week (archived)
+C05AZ8DE2AX  -     Group: @oliver @katja.freier @vitalii.ivantsov @andrew.khang
+C05B455UALR  arch  #web3-random (archived)
+C05BT0BFB1Q  arch  🔒 all-hands (archived)
+C05C5BG7ZRU  -     Group: @andrew.khang @oliver @katja.freier @christopher.smalley
+C05CWB05P5G  arch  #kicker-tournament-june-2023 (archived)
+C05D1QH8H08  -     Group: @andrew.khang @antonina.norair @oliver @katja.freier
+C05D1QJQGNL  -     Group: @andrew.khang @antonina.norair @oliver @katja.freier @christopher.smalley
+C05E5LXF46R  -     #gardening-greenjuice-bees
+C05E85RGCH5  arch  #it_write2eth (archived)
+C05E8PZDCRJ  arch  #it_bank_accounts (archived)
+C05EX7MBZT5  -     Group: @thor.mathison @andrew.khang @luca
+C05F0V6KXR8  -     Group: @rafael.weninger @andrew.khang @marco.hinz @stefan.kleff
+C05FD56958F  -     Group: @antonina.norair @andrew.khang @greg
+C05FXJ1C4CV  -     Group: @andrew.khang @antonina.norair @thor.mathison @christopher.smalley
+C05FXJ23GJH  -     Group: @andrew.khang @antonina.norair @thor.mathison @christopher.smalley @ian.patton
+C05G0PGHLUQ  -     Group: @oliver @luca @greg @marco.hinz @andrew.khang @thor.mathison
+C05GCJASJ4T  arch  🔒 pps-mgmt (archived)
+C05GMEC5DT9  -     Group: @vitalii.ivantsov @antje.bechler @andrew.khang
+C05GZCC5955  -     Group: @greg @thor.mathison @andrew.khang @marco.hinz @antonina.norair @oliver
+C05GZL5A9SL  -     Group: @vitalii.ivantsov @luca @thor.mathison @andrew.khang
+C05H2QDV329  -     Group: @thor.mathison @luca @greg @oliver @andrew.khang
+C05H4PD94BZ  -     Group: @thor.mathison @joao.reginatto @oliver @andrew.khang
+C05H6DB44C8  -     Group: @vitalii.ivantsov @thor.mathison @jochen.weiss @luca @andrew.khang @roman.steigertahl
+C05H78SLRSA  -     Group: @greg @thor.mathison @andrew.khang @marco.hinz @antonina.norair @oliver @luca
+C05HB0XKAAH  -     Group: @greg @thor.mathison @andrew.khang @marco.hinz @antonina.norair
+C05HDCE3ELA  -     Group: @antonina.norair @antonello.simeon @andrew.khang
+C05J0C4SLCX  arch  #wearedevelopers (archived)
+C05JC6JCB1N  arch  🔒 vision (archived)
+C05JFQABXGS  -     Group: @antonina.norair @andrew.khang @stefan.kleff @antonello.simeon
+C05JMMML6K1  -     Group: @claudine.oldengott @andrew.khang @antonina.norair @greg
+C05K5FKJ16C  -     Group: @antonina.norair @andrew.khang @stefan.kleff
+C05KCC85R5M  arch  #web3-links-and-tools (archived)
+C05KLVB24JE  -     Group: @antonina.norair @caleb.ditchfield @andrew.khang
+C05KNGR9JQ5  -     Group: @andrew.khang @antje.bechler @vitalii.ivantsov @greg
+C05KRUTJU48  -     Group: @claudine.oldengott @andrew.khang @antonina.norair
+C05KY32H0TT  -     Group: @andrew.khang @jochen.weiss @thor.mathison
+C05L99GQ0UD  -     Group: @rafael.weninger @antonina.norair @andrew.khang
+C05LD31K4KE  arch  #rpcproxy (archived)
+C05LG7XK8N5  arch  #it_legacy_data_notifications (archived)
+C05LMJ3HCC8  -     Group: @andrew.khang @antje.bechler @joao.reginatto
+C05M8RGAZAB  arch  🔒 esop (archived)
+C05M9SLKF4H  arch  #web3-meeting-notes (archived)
+C05MF0NA563  -     Group: @thor.mathison @andrew.khang @luisa.blandon
+C05N9Q6B5NW  arch  🔒 board-ppt (archived)
+C05NG5G026P  -     Group: @andrew.khang @marco.hinz @stefan.kleff
+C05NS63NTJ9  -     Group: @andrew.khang @luisa.blandon @rafael.weninger
+C05NYGG4E5A  -     Group: @luisa.blandon @andrew.khang @joao.reginatto
+C05P531JC8K  arch  #project_token_management (archived)
+C05P5LL6CQ3  arch  #portfolio_opt (archived)
+C05P864PV7V  -     Group: @andrew.khang @marco.hinz @jochen.weiss
+C05PSM6B0Q5  -     Group: @vitalii.ivantsov @luca @andrew.khang
+C05Q78SD679  -     Group: @antonina.norair @greg @luca @andrew.khang
+C05QP4P1VNJ  -     Group: @luca @joao.reginatto @andrew.khang
+C05R5JC3VN3  arch  🔒 berlin-sept-onsite (archived)
+C05R77XK8JX  -     Group: @antonina.norair @antonello.simeon @vladimir.vecgailis @greg @andrew.khang
+C05R7BZNURY  -     Group: @antonina.norair @andrew.khang @greg @vladimir.vecgailis
+C05RKL223NF  -     Group: @andrew.khang @marco.hinz @oliver @luca @thor.mathison @claudine.oldengott @antje.bechler @rafael.weninger
+C05RL1AFHQ9  -     Group: @antonina.norair @andrew.khang @greg @vladimir.vecgailis @antonello.simeon @thor.mathison
+C05RN6PJAJY  -     Group: @andrew.khang @marco.hinz @oliver @luca @thor.mathison @claudine.oldengott
+C05RNF7UJH2  -     Group: @andrew.khang @thor.mathison @luca @oliver @luisa.blandon @claudine.oldengott @antje.bechler @rafael.weninger @joao.reginatto
+C05RVLFQ49W  -     Group: @antje.bechler @andrew.khang @claudine.oldengott @marta.amargant
+C05RW5R1JBU  -     Group: @andrew.khang @antonello.simeon @antonina.norair @alessandro.rosmo
+C05RW5R6P5Y  -     Group: @andrew.khang @antonello.simeon @antonina.norair @alessandro.rosmo @stefan.kleff
+C05RYC95HG9  -     Group: @andrew.khang @marco.hinz @oliver @luca @thor.mathison @claudine.oldengott @antje.bechler
+C05RYCAB2HX  -     Group: @andrew.khang @marco.hinz @oliver @luca @thor.mathison @claudine.oldengott @antje.bechler @rafael.weninger @joao.reginatto
+C05S1T0SJUS  -     Group: @greg @andrew.khang @luisa.blandon @antonina.norair
+C05SP18KA56  -     Group: @thor.mathison @marco.hinz @andrew.khang @oliver
+C05SUAN0HJQ  arch  #pps-design (archived)
+C05SUT09DB6  -     Group: @andrew.khang @oliver @luca
+C05TM7JDXU0  -     Group: @andrew.khang @daniel.binsfeld @marco.hinz
+C05TN7P050Q  -     Group: @andrew.khang @claudine.oldengott @marta.amargant
+C05TS926SF9  -     Group: @andrew.khang @oliver @luca @thor.mathison
+C05TZPFNAHZ  arch  🔒 cayman-holdco (archived)
+C05UBFQ65GF  arch  🔒 go_to_market (archived)
+C05UHV3CSRY  -     #one-mzero
+C05UKCHEGVC  -     Group: @joao.reginatto @andrew.khang @rafael.weninger @daria.dmytruk
+C05UP2959BJ  arch  🔒 vested-tokens-mechanics (archived)
+C05UUF786CC  -     Group: @joao.reginatto @andrew.khang @rafael.weninger
+C05UURW6NCF  -     Group: @claudine.oldengott @luca @oliver @marco.hinz @andrew.khang
+C05UW2UK4S2  arch  🔒 friday (archived)
+C05UYBNS0MR  -     Group: @andrew.khang @marco.hinz @claudine.oldengott
+C05V9JQKGFR  arch  #project_minter_module (archived)
+C05VBB8PQLW  -     Group: @vitalii.ivantsov @oliver @thor.mathison @marco.hinz @andrew.khang
+C060C986M4L  arch  #data-integrations (archived)
+C060FKGD84D  -     Group: @marta.amargant @vladimir.vecgailis @antonello.simeon @andrew.khang @alessandro.rosmo
+C060GPW0T5Z  -     Group: @andrew.khang @luca @antje.bechler @joao.reginatto
+C060JH6JB26  -     Group: @andrew.khang @vladimir.vecgailis @antonello.simeon
+C060V96KCSV  -     #project-portfolio-optimisation
+C060XTZL7V2  -     Group: @thor.mathison @andrew.khang @luca @oliver @vitalii.ivantsov @greg @marco.hinz @jochen.weiss
+C060YAGA0HH  -     Group: @luca @vitalii.ivantsov @oliver @marco.hinz @andrew.khang
+C061ND0RNQ7  -     Group: @vitalii.ivantsov @oliver @andrew.khang
+C061RUCGXK8  arch  🔒 hiring-content-research (archived)
+C062437646T  -     Group: @vitalii.ivantsov @luca @greg @andrew.khang
+C062C03A1RU  -     Group: @vitalii.ivantsov @luca @greg @oliver @andrew.khang
+C062DA48Z96  arch  🔒 web3-candidates (archived)
+C062SA9H39N  -     Group: @andrew.khang @thor.mathison @antonello.simeon
+C062SA9U5KJ  -     Group: @andrew.khang @thor.mathison @antonello.simeon @alessandro.rosmo
+C06314UNE8P  -     Group: @joao.reginatto @andrew.khang @greg @antonina.norair @luca
+C0631VBGP9T  -     Group: @claudine.oldengott @luca @andrew.khang
+C063D3PGY1X  -     Group: @andrew.khang @rafael.weninger @marco.hinz
+C063HB5FKDE  -     Group: @andrew.khang @stefan.kleff @joao.reginatto
+C063P8V75MK  -     Group: @joao.reginatto @luca @andrew.khang @thor.mathison
+C063Z3N07M0  arch  🔒 hiring-epm (archived)
+C0640DF5A30  -     Group: @vitalii.ivantsov @andrew.khang @thor.mathison
+C0647G6SGSK  -     Group: @claudine.oldengott @vladimir.vecgailis @stefan.kleff @andrew.khang
+C064GKQHEFJ  arch  🔒 project_websites (archived)
+C064JKR5RE2  -     Group: @andrew.khang @joao.reginatto @stefan.kleff @claudine.oldengott
+C064JUU928K  -     Group: @luca @vladimir.vecgailis @andrew.khang
+C064MFL7PBN  -     Group: @antonello.simeon @luca @vladimir.vecgailis @andrew.khang @marta.amargant
+C064QG1KVNG  -     Group: @claudine.oldengott @vladimir.vecgailis @stefan.kleff @andrew.khang @thor.mathison
+C064V7S2EGH  -     Group: @thor.mathison @joao.reginatto @andrew.khang
+C064VJ708CW  -     Group: @andrei.evdokimov @joao.reginatto @andrew.khang
+C065BHEKHST  arch  🔒 hiring-issuer-ops (archived)
+C065D1D25K7  arch  #project_group_data_validator (archived)
+C066KSY2QF5  -     #crypto-news
+C067RC6V50D  arch  🔒 downstream_bridge_xyz (archived)
+C068GB7DTFT  arch  🔒 board_dec23 (archived)
+C068Q4ELVKM  arch  #it_gitlab_merge_requests_hunters (archived)
+C068W4V6G2V  -     🔒 documentation
+C068XN4AXPV  -     Group: @claudine.oldengott @joao.reginatto @andrew.khang
+C069AEKTZRP  -     Group: @claudine.oldengott @joao.reginatto @andrew.khang @oliver @marco.hinz
+C069H2SJR7T  arch  #protocol-testing-solidity-team (archived)
+C069LD5F43A  arch  #protocol-testing (archived)
+C069YS9D031  arch  #taylor (archived)
+C069ZJA8LMQ  -     Group: @claudine.oldengott @andrew.khang @marta.amargant @luca
+C069ZNA14NM  -     #spog-manual-testing
+C06A12KDHU0  arch  #spog-gov-app-bugs (archived)
+C06AC1W8HED  -     Group: @joao.reginatto @luca @andrew.khang @andrei.evdokimov
+C06ATK024QH  -     Group: @luca @david.shuttleworth @joao.reginatto @andrew.khang
+C06AZUQHR9U  arch  🔒 finance-payments (archived)
+C06B9MGDWGZ  arch  🔒 social-media-posts-review (archived)
+C06BC8BLJF7  arch  🔒 non-investor-update (archived)
+C06BV9L56ET  -     Group: @claudine.oldengott @andrew.khang @antje.bechler
+C06CNLKCYRK  arch  🔒 temp_stateoftheunion (archived)
+C06CQ1K4EAX  -     Group: @joao.reginatto @luca @greg @andrew.khang
+C06CTEAQ16V  -     Group: @oliver @andrew.khang @greg
+C06CWR23Q86  arch  🔒 ___bank___ (archived)
+C06D9JQ1QE7  arch  🔒 eth-denver-2024 (archived)
+C06DMMW3FC2  arch  🔒 temp_baincap (archived)
+C06DZMC06JG  arch  #project_integration (archived)
+C06E456P3L2  arch  #monitoring-vpc-lambda-dev (archived)
+C06E4BG0W3V  -     🔒 ecosystem-ops
+C06E5PCMPRA  -     🔒 marketing-and-comms
+C06E5U1T4CC  arch  #monitoring-mpc-lambda-dev (archived)
+C06EARKDFJ8  arch  🔒 tech-docu-bain-capital (archived)
+C06EHPYPJ67  arch  #project_group_retrieval (archived)
+C06EL74UKGR  -     Group: @andrew.khang @marco.hinz @joao.reginatto
+C06EL755P0R  -     Group: @andrew.khang @marco.hinz @joao.reginatto @jacqueline.to
+C06EWMXB1CZ  arch  🔒 gtm-execution (archived)
+C06FBJ43WMQ  arch  🔒 first-validator-setup (archived)
+C06FJ284QC9  arch  #monitoring-vpc-lambda-local (archived)
+C06FTSF2CRJ  arch  🔒 issuer-hotline-for-things-on-fire (archived)
+C06FU5VE3HN  arch  #monitoring-mpc-lambda-local (archived)
+C06G9NBN3RD  -     Group: @greg @stefan.kleff @antonina.norair @marco.hinz @andrew.khang
+C06GE2C4J77  -     Group: @antonina.norair @stefan.kleff @andrew.khang @greg
+C06GFEH6A73  -     #intellectual-property
+C06GGP7849H  -     Group: @antje.bechler @thor.mathison @andrew.khang
+C06GUB5TX0R  arch  🔒 nyc_meeting (archived)
+C06GVG4LJV7  -     Group: @antje.bechler @thor.mathison @andrew.khang @jacqueline.to
+C06HDNU217S  arch  🔒 launch-dry-run (archived)
+C06HFSW17EE  -     🔒 ecosystem-dev
+C06HN6G86LS  arch  🔒 hr_management (archived)
+C06J5DN2D5Z  arch  #team-protocol (archived)
+C06J7AU8H38  arch  🔒 archived-000 (archived)
+C06J7MP486S  arch  #hubspot-alerts (archived)
+C06JCMNB735  arch  #protocol-frontend (archived)
+C06JEF1PR1D  arch  #comp-usual-finance (archived)
+C06JFT9C3LJ  arch  🔒 ntk__series_a (archived)
+C06JHDK31N1  arch  #web3-issues-report (archived)
+C06JLNGKGCE  -     Group: @joao.reginatto @luca @oliver @greg @andrew.khang
+C06JT95HWV9  -     Group: @joao.reginatto @luca @oliver @greg @andrew.khang @jacqueline.to
+C06JUA7K52N  arch  🔒 ecosystem-dev-top-of-funnel (archived)
+C06K70D3J7K  arch  🔒 ecosystem-dev-updates (archived)
+C06KDKTJR61  arch  #project_blockchain_bi (archived)
+C06KH91C945  arch  #comp-orange-dao (archived)
+C06KPU5GTDY  arch  #web3-frontend-notifications (archived)
+C06LKLJULTT  -     Group: @thor.mathison @marta.amargant @andrew.khang
+C06LTGWQ571  -     Group: @claudine.oldengott @oliver @luca @greg @joao.reginatto @andrew.khang @antonina.norair @jacqueline.to @thor.mathison
+C06LUC4SHUN  arch  🔒 onsite-week (archived)
+C06M1ELC006  -     Group: @claudine.oldengott @oliver @luca @greg @joao.reginatto @andrew.khang
+C06MWT5L17A  -     Group: @claudine.oldengott @oliver @luca @greg @joao.reginatto @andrew.khang @antonina.norair @jacqueline.to
+C06N33YGW1H  -     Group: @joao.reginatto @greg @jacqueline.to @luca @andrew.khang
+C06N8UW66G7  arch  🔒 temp-back-office-docs (archived)
+C06NS9RFLA3  -     Group: @thor.mathison @andrew.khang @jacqueline.to
+C06P2PFHQ4D  -     Group: @claudine.oldengott @joao.reginatto @thor.mathison @luca @greg @antonina.norair @andrew.khang
+C06PB4BGL21  arch  🔒 temp-teknos-valuation-report (archived)
+C06Q0759U15  -     #product-cl-mxon-eng
+C06QFNBD3EJ  -     Group: @claudine.oldengott @daniel.binsfeld @osmar.matos @rafael.weninger @stefan.kleff @vladimir.vecgailis @andrew.khang
+C06QN8GLWSX  -     Group: @claudine.oldengott @daniel.binsfeld @osmar.matos @rafael.weninger @stefan.kleff @vladimir.vecgailis @andrew.khang @oliver
+C06QQRJPBPW  -     Group: @claudine.oldengott @daniel.binsfeld @osmar.matos @rafael.weninger @stefan.kleff @vladimir.vecgailis @andrew.khang @marta.amargant
+C06R3E68E80  arch  🔒 bank-operations (archived)
+C06R8LYP1NW  arch  🔒 product_committee (archived)
+C06RJ1F3VCN  arch  #dry-run (archived)
+C06RL8G74D8  arch  🔒 growth (archived)
+C06RUFF1VQC  arch  #project_fireblocks-integration (archived)
+C06SNHL5U3F  arch  #project-updates (archived)
+C06SZCZQTDF  arch  🔒 tmp-economic-substance (archived)
+C06TFG6LJCU  -     Group: @andrew.khang @jacob.laufer @antonina.norair @joao.reginatto
+C06TGF04RTN  -     Group: @stefan.kleff @andrew.khang @claudine.oldengott
+C06UYMBBDK4  arch  🔒 wen-first-mint (archived)
+C06V7B1RRMM  arch  #blockchainweek24 (archived)
+C0704P0BQTU  -     #spvops-minter
+C0707FE0KL2  arch  #project_validation_wallet_connection (archived)
+C070AHVHC3D  -     🔒 legal
+C070BHGCCPJ  -     Group: @antonina.norair @andrew.khang @thor.mathison @jacob.laufer
+C070FDZ9NLF  -     🔒 americans
+C070NKDSMLK  -     Group: @frederic.hannesen @luca @greg @oliver @andrew.khang
+C070QN19WCV  arch  🔒 temp_lucatokyodrift (archived)
+C070WCZCLC8  -     Group: @frederic.hannesen @luca @greg @oliver @jacqueline.to @marco.hinz @vitalii.ivantsov @andrew.khang
+C0719989BB2  arch  #tmp-ebics (archived)
+C071FLUQVP0  -     Group: @claudine.oldengott @vitalii.ivantsov @andrew.khang @marta.amargant
+C071LJW3GSZ  -     Group: @andrew.khang @oliver @frederic.hannesen
+C071M1X6DDY  -     #notifications-protocol-events
+C071QJ78CRY  -     #notifications-ttg-events
+C071R7LBGAF  -     Group: @vitalii.ivantsov @oliver @luca @andrew.khang
+C071S0QKR7S  -     Group: @marta.amargant @vitalii.ivantsov @andrew.khang
+C071Z32KL6B  arch  🔒 temp-singapore-sept-16 (archived)
+C071Z6GUVNY  arch  #project_guidance (archived)
+C071Z6W10TY  -     #project-validator-chronicle
+C071ZCKLXNG  -     Group: @greg @andrew.khang @rafael.weninger
+C0724ELGCGZ  -     Group: @oliver @vitalii.ivantsov @andrew.khang @frederic.hannesen
+C072B48CKEC  -     Group: @luca @frederic.hannesen @andrew.khang
+C072B55V048  -     Group: @andrew.khang @antje.bechler @vladimir.vecgailis @vitalii.ivantsov @marco.hinz @stefan.kleff @jacqueline.to @carloalberto.verona
+C072DBPM2G3  arch  🔒 temp-nyc-june-10 (archived)
+C072EHUKMCP  arch  🔒 childbirth-stefan (archived)
+C072LPQA2DB  arch  #validation-test2 (archived)
+C072UMZ5SPJ  -     Group: @vitalii.ivantsov @andrew.khang @carloalberto.verona
+C0734480H6E  -     Group: @andrew.khang @luca @vladimir.vecgailis @oliver @vitalii.ivantsov @greg @stefan.kleff @antonello.simeon
+C073DSQU687  arch  #monitoring-mpc-fireblocks-local (archived)
+C073LNVR286  arch  #project_am_redesign (archived)
+C073M2RDFAS  arch  #monitoring-mpc-fireblocks-staging (archived)
+C073UU5JB4K  arch  🔒 temp-brussels-july-6 (archived)
+C073VGC7D1N  arch  #monitoring-mpc-fireblocks-dev (archived)
+C0746BL581F  arch  #monitoring-mpc-fireblocks-production (archived)
+C074DFGDNQ1  arch  #project_kafka_to_s3_chronicle (archived)
+C074DFX6NKC  -     🔒 minter-finance
+C074PB17VT4  -     Group: @joao.reginatto @andrew.khang @jacob.laufer
+C075DT98R8W  -     Group: @jacqueline.to @marco.hinz @oliver @joao.reginatto @hubert.newell @andrew.khang
+C0767D2N1KR  arch  🔒 solidity-candidates (archived)
+C0767JDD295  arch  #project_auto_collateral_updates (archived)
+C076F921DST  -     Group: @claudine.oldengott @andrew.khang @luca @carloalberto.verona
+C076GSNQ90W  arch  🔒 galaxy-podcast (archived)
+C076WPJBW7Q  arch  🔒 temp-hc-and-budget (archived)
+C0774809VFD  -     Group: @joao.reginatto @nicole.schaefer @andrew.khang
+C077DACC4TH  -     #project-multichain
+C077FABL9M2  arch  #ecosystem-dashboard (archived)
+C077R2BQTD3  -     #project-extensions
+C077T0JMK34  -     Group: @andrew.khang @stefan.kleff @antje.bechler @nicole.schaefer
+C077T1NV198  -     Group: @andrew.khang @stefan.kleff @antje.bechler @nicole.schaefer @vladimir.vecgailis
+C0781GYUFRV  -     Group: @carloalberto.verona @luca @vitalii.ivantsov @andrew.khang
+C0783P2R0MB  -     #project_validator-chainlink
+C078FPUJH8Q  -     Group: @andrew.khang @stefan.kleff @antje.bechler
+C078QNX5F0T  -     Group: @andrew.khang @frederic.hannesen @jacob.laufer
+C078UG0QLRZ  arch  #project_cancelmint_and_freezeminter (archived)
+C078WBT2TPW  -     Group: @claudine.oldengott @joao.reginatto @antonina.norair @andrew.khang @stefan.kleff
+C0799BC14JC  arch  #project_blockchain_testing (archived)
+C079DDSFHMW  -     Group: @andrew.khang @vladimir.vecgailis @stefan.kleff @antonello.simeon
+C079GM77740  -     Group: @claudine.oldengott @joao.reginatto @antonina.norair @andrew.khang @stefan.kleff @carloalberto.verona
+C079TMDPG20  -     Group: @claudine.oldengott @antonina.norair @andrew.khang @stefan.kleff
+C079TMEKTTN  -     Group: @claudine.oldengott @antonina.norair @andrew.khang @stefan.kleff @joao.reginatto @marco.hinz
+C07A1GXU31U  -     #validator-finoa
+C07A873N6Q2  -     #monitoring-protocol-clients
+C07AAPWCHC1  arch  🔒 ecosystem-finance (archived)
+C07ANJ9T3BQ  arch  #ar-signing-coordination (archived)
+C07C1BKDN03  -     Group: @claudine.oldengott @nicole.schaefer @andrew.khang
+C07C634EQ79  arch  🔒 temp_nyc_august (archived)
+C07CA3PMUG0  arch  #project_minter_wallet_connect (archived)
+C07CAPBTQCE  arch  #web3-voting-guild (archived)
+C07CF0F6AA3  arch  #tmp-settlement-agreement (archived)
+C07CMMJ9CPJ  -     Group: @claudine.oldengott @carloalberto.verona @andrew.khang
+C07CRG3M4A3  arch  🔒 temp_confidential_relocation (archived)
+C07D715M0BU  -     #governance-discussions
+C07DHQ6GKFC  -     #notifications-boardroom
+C07DN1S7U2F  arch  #governance-forum (archived)
+C07DSMTHE4V  arch  🔒 rfp-maker (archived)
+C07E54ZJMU2  -     🔒 sphere-x-m0
+C07E67BTXK4  -     🔒 team-mxon
+C07EUQNAU9H  arch  #spvos_notifications (archived)
+C07F00ZG6S2  arch  🔒 new-minter-program (archived)
+C07F3PDMWQK  -     #notifications-proposals-events
+C07F42GGP5M  arch  #project_erpc-proxy (archived)
+C07FJE6TXC1  arch  🔒 rfp-ethena (archived)
+C07FVP7495K  -     Group: @carloalberto.verona @luca @andrew.khang
+C07GLEPLG1E  arch  #project-labs-website (archived)
+C07HBS16C2C  -     #monitoring-security-reader
+C07HMBR45EH  arch  🔒 hiring_general_counsel (archived)
+C07HMPL2RDK  arch  🔒 hiring_crypto_integration_mgr (archived)
+C07JADDQ65Q  -     Group: @andrew.khang @luca @greg @oliver
+C07JN3QDLP7  arch  #web3-solana-rust (archived)
+C07JNQDKWHY  arch  #project_message-streaming (archived)
+C07L033N20P  -     Group: @luca @andrew.khang @oliver @jacob.laufer
+C07L295ELNR  -     Group: @joao.reginatto @jacob.laufer @andrew.khang @luca
+C07LAU4T9JT  -     Group: @oliver @andrew.khang @joao.reginatto
+C07LC9K9JQP  -     Group: @claudine.oldengott @andrew.khang @jacob.laufer
+C07LDJKUK89  -     Group: @frederic.hannesen @luca @oliver @andrew.khang
+C07LH49FH9D  -     Group: @marta.amargant @antonina.norair @andrew.khang @claudine.oldengott
+C07LH4FTWFR  -     Group: @marta.amargant @antonina.norair @andrew.khang @claudine.oldengott @jacob.laufer @joao.reginatto @nicole.schaefer
+C07LH4S493R  -     Group: @marta.amargant @claudine.oldengott @andrew.khang @antonina.norair @jacob.laufer @nicole.schaefer
+C07LR25AG5C  -     Group: @marta.amargant @antonina.norair @andrew.khang @claudine.oldengott @jacob.laufer @joao.reginatto @nicole.schaefer @pierrick.turelier
+C07LR2ESQTG  -     Group: @marta.amargant @claudine.oldengott @andrew.khang @antonina.norair @jacob.laufer @nicole.schaefer @pierrick.turelier
+C07LUFMMCDA  -     Group: @andrew.khang @carloalberto.verona @oliver
+C07LXLMBYE6  -     Group: @marta.amargant @antonina.norair @andrew.khang @claudine.oldengott @jacob.laufer
+C07M05F944C  -     Group: @marta.amargant @antonina.norair @andrew.khang
+C07MAB0C8JV  -     Group: @marta.amargant @antonina.norair @andrew.khang @claudine.oldengott @jacob.laufer @joao.reginatto
+C07MUQ5JQ13  -     #backend_notifications
+C07NB2XKB5Y  -     #mnav
+C07NFLA7814  -     #project-fireblocks-api-signer
+C07NVP23VB6  arch  #tmp-spv-minter-reporting (archived)
+C07PEHU7HGA  -     Group: @andrew.khang @frederic.hannesen @carloalberto.verona
+C07PVCQC078  arch  #project_ecosystem_dashboard_ms2 (archived)
+C07Q3DQ3U8H  arch  🔒 temp-rwa_nyc (archived)
+C07QNECDN21  arch  🔒 comms-strategy-review (archived)
+C07QPJ8FZGC  -     Group: @joao.reginatto @jacqueline.to @andrew.khang
+C07RBNCN8EP  arch  #nyc-web3-offsite (archived)
+C07RF51F7TJ  -     🔒 website-leads
+C07RH5GR8LX  -     🔒 project-world
+C07RS9XFJF3  arch  🔒 project-medad (archived)
+C07RUK12526  arch  #voting-info (archived)
+C07RUQ8RACD  arch  🔒 project-brale (archived)
+C07RX2HTAEP  arch  #project_external_notifications (archived)
+C07S50DTJ4B  -     #project-earner-yield-tracking
+C07S8MNKV0V  -     Group: @andrew.khang @joao.reginatto @nicole.schaefer @vladimir.vecgailis @alessandro.rosmo
+C07SKN77JBU  arch  🔒 project-celestia (archived)
+C07SL3VB5A6  arch  🔒 project-purpose (archived)
+C07SPNPTHL1  -     Group: @joao.reginatto @andrew.khang @carloalberto.verona
+C07ST3TGXC0  -     Group: @oliver @claudine.oldengott @andrew.khang
+C07T0BGJ88Y  -     Group: @andrew.khang @joao.reginatto @nicole.schaefer @vladimir.vecgailis
+C07TGE26LR3  arch  🔒 project-hifi (archived)
+C07TRLL5SQ1  arch  #project_collateral_expansion (archived)
+C07U65JV4CB  -     Group: @andrew.khang @joao.reginatto @andrei.evdokimov @nicole.schaefer
+C07UA00TMEY  -     🔒 project-sphere
+C07V79HLLQ4  arch  🔒 temp-job-listings-portal (archived)
+C07V8BKRMBN  -     Group: @andrew.khang @oliver @marco.hinz
+C07V9NK0NRX  arch  #tmp-superstate-onboarding-spv (archived)
+C0809ERMDRT  arch  🔒 adopted-guidance (archived)
+C0809JBU8UX  arch  #project_minter_assets_overview (archived)
+C080Q5E7A2F  -     🔒 project-usual
+C080R0RJ7FT  arch  🔒 project-superstate (archived)
+C080R9K1Y0Z  -     Group: @carloalberto.verona @jacob.laufer @andrew.khang
+C0816ML8DLY  -     Group: @alessandro.rosmo @andrew.khang @luca
+C081E9519T7  -     Group: @marta.amargant @oliver @carloalberto.verona @andrew.khang @luca
+C081EBMLL6R  arch  🔒 project-digift (archived)
+C081F046QS3  arch  🔒 hiring_finance (archived)
+C081H5MFV4K  -     Group: @marta.amargant @luca @andrew.khang @claudine.oldengott @oliver
+C081NM7V6CE  -     Group: @claudine.oldengott @carloalberto.verona @andrew.khang @nicole.schaefer
+C082041TMRN  arch  #project_improved_user_feeback (archived)
+C0821LLTU8K  -     Group: @claudine.oldengott @andrew.khang @jacqueline.to @hubert.newell
+C0822N1082F  -     Group: @alessandro.rosmo @carloalberto.verona @luca @joao.reginatto @andrew.khang @oliver
+C08256HFJ8H  arch  🔒 strategy (archived)
+C08259Z2804  -     Group: @alessandro.rosmo @andrew.khang @luca @carloalberto.verona @oliver
+C08260MBE1E  -     Group: @marta.amargant @oliver @carloalberto.verona @andrew.khang @luca @claudine.oldengott
+C083B3Y2WT0  arch  #project-uniswap-v4 (archived)
+C083FQEG4LQ  -     #notifications-m-portal-events-sepolia
+C083PA1A66S  arch  #project-usual-eng (archived)
+C083T3QLLJH  arch  #project-world-eng (archived)
+C083TNTUX19  -     #notifications-uniswap-liquidity
+C083U912FND  -     #project-solana-m
+C0844Q9PL49  -     Group: @andrew.khang @greg @carloalberto.verona
+C0849Q9MZEC  arch  🔒 project-ramp (archived)
+C084J7YC7EE  arch  #notifications-usual-swapper-orders (archived)
+C084QL2LVHA  arch  #project_minter_wrapping (archived)
+C085Q911P4G  arch  #project_minting_facility (archived)
+C085UMT3ZEE  arch  #notifications-usual-m-fulfilled-orders (archived)
+C085V0A1KFE  -     Group: @andrew.khang @alessandro.rosmo @joao.reginatto
+C085WCF6675  arch  🔒 project-adapt3r (archived)
+C0862CX3RAP  -     #notifications-usual-m-claim-events
+C086SBS9R3R  arch  🔒 temp-fix-mentions-to-m (archived)
+C0876123KF1  -     #notifications-usual-m-alerts
+C087FFQFY8K  -     Group: @frederic.hannesen @greg @andrew.khang
+C087HQNTDHB  -     Group: @andrew.khang @jacqueline.to @marco.hinz
+C087V9EE7HB  -     Group: @claudine.oldengott @frederic.hannesen @andrew.khang @marta.amargant
+C087VT3U9UM  -     Group: @andrew.khang @jacob.laufer @marlowe.johnson
+C087Z2SQEUT  -     🔒 project-noble
+C0883KU70G0  arch  #tmp-wintermute-otc-agreement (archived)
+C0884JA2B40  arch  🔒 leadership-recruiting (archived)
+C088MGXE2UU  -     Group: @frederic.hannesen @oliver @marco.hinz @carloalberto.verona @andrew.khang
+C0898A3CWES  arch  #tmp-gsr-spa-contract (archived)
+C089CC269RB  -     🔒 liquidity-strategy
+C089LGVS9SA  -     🔒 project-metastreet
+C089R4R9TA7  -     Group: @claudine.oldengott @marta.amargant @andrew.khang @greg
+C089R59CZQ8  arch  #temp-audit-minter-spv (archived)
+C089VM60D4J  -     🔒 world-m0
+C089Y39K414  -     Group: @marta.amargant @greg @andrew.khang
+C089ZL78Q3G  arch  🔒 project-us-issuer (archived)
+C08A0KAPLA3  -     Group: @andrew.khang @marta.amargant @bawar.hamad
+C08AET5PG0N  -     Group: @antje.bechler @andrew.khang @rafael.weninger
+C08AK1978DP  -     🔒 product
+C08AP0HQNKG  -     Group: @andrew.khang @luca @oliver @carloalberto.verona @jacqueline.to @marco.hinz @jacob.laufer
+C08B8KQTMMG  -     🔒 m0-foundation-council
+C08BJDAL43S  -     Group: @andrew.khang @luca @oliver @carloalberto.verona @jacqueline.to @marco.hinz
+C08BR3F1S83  -     Group: @carloalberto.verona @andrew.khang @nicole.schaefer
+C08BV3XHFGE  -     Group: @frederic.hannesen @andrew.khang @marta.amargant
+C08BVJ0NP6W  arch  #modules (archived)
+C08BY5SHSRG  -     Group: @andrew.khang @frederic.hannesen @bawar.hamad @marta.amargant
+C08C7CEQJKF  -     #web3-ui
+C08CEJM3ATE  -     Group: @andrew.khang @marta.amargant @alessandro.rosmo
+C08CLJQ69D5  -     Group: @andrew.khang @alessandro.antonelli @jordan.hall @jonathan.alvarez @kurtis.streutker
+C08CUG1K0J2  -     Group: @andrew.khang @alessandro.antonelli @jordan.hall @jonathan.alvarez
+C08CY9WJTQD  -     Group: @andrew.khang @alessandro.antonelli @jordan.hall
+C08E0EVSECX  -     Group: @alessandro.antonelli @andrew.khang @andrei.evdokimov
+C08E26FGX62  -     Group: @andrew.khang @luca @greg @antje.bechler
+C08E4AJBCSV  -     Group: @andrew.khang @bawar.hamad @marta.amargant @nicole.schaefer
+C08E8MPJ8RH  -     Group: @andrew.khang @luca @greg @antje.bechler @frederic.hannesen @carloalberto.verona
+C08EBG3LDC4  -     Group: @andrew.khang @luca @greg
+C08EQF2J6H2  arch  🔒 confidential_sb-deal-team (archived)
+C08EUC9BJ57  arch  🔒 m0-leadership-recruiting (archived)
+C08F11BBFNZ  -     #notifications-m-portal
+C08F75PAB2M  -     Group: @andrew.khang @nicole.schaefer @andrei.evdokimov
+C08FAJ87RP1  -     Group: @greg @carloalberto.verona @andrew.khang @luca
+C08FEKU68L8  -     Group: @carloalberto.verona @bawar.hamad @andrew.khang
+C08FHGV56AV  arch  🔒 temp-gsr-mm (archived)
+C08FV8NKMC1  -     Group: @hubert.newell @luca @andrew.khang
+C08G6K3GY01  arch  🔒 temp-march-nyc-events (archived)
+C08G8RWK4MQ  arch  🔒 company-party-comittee (archived)
+C08GBPCS9M2  -     Group: @alessandro.rosmo @andrew.khang @luca @greg
+C08GFB5DJP3  -     Group: @andrew.khang @alessandro.antonelli @jordan.hall @jonathan.alvarez @kurtis.streutker @pierrick.turelier
+C08GGJADT53  -     Group: @frederic.hannesen @luca @greg @andrew.khang
+C08GTN23YRF  -     Group: @frederic.hannesen @vladimir.vecgailis @andrew.khang
+C08GZB7NLN9  -     Group: @andrew.khang @marco.hinz @luca @greg
+C08H5JER0SU  -     Group: @vladimir.vecgailis @luca @frederic.hannesen @andrew.khang
+C08H7Q7LAUT  -     Group: @frederic.hannesen @agustin.zulliger @andrew.khang
+C08H83MLA02  -     Group: @luca @antje.bechler @andrew.khang @alessandro.rosmo @frederic.hannesen @carloalberto.verona
+C08HCFTQVBR  arch  🔒 confidential-para-dd (archived)
+C08HEEF946P  -     #pentest-q1-2025
+C08HFE3T76X  -     Group: @andrew.khang @alessandro.rosmo @antje.bechler @frederic.hannesen @carloalberto.verona
+C08HQ6ZSH4G  -     Group: @frederic.hannesen @luca @antje.bechler @greg @marco.hinz @andrew.khang
+C08HUH153E2  -     Group: @joao.reginatto @andrew.khang @frederic.hannesen @jacqueline.to
+C08HVS5F2G4  -     Group: @luca @antje.bechler @greg @andrew.khang @marta.amargant
+C08HX5EUU57  -     #eng-documentation
+C08HXEJK1RC  -     Group: @paul.barskiy @antonina.norair @andrew.khang @jacob.laufer @nicole.schaefer @ryan.hendrickson
+C08J0794821  -     Group: @joao.reginatto @andrew.khang @frederic.hannesen
+C08J28FE6JD  -     🔒 confidential_labor-court-cases
+C08JMEAQ3U4  -     Group: @nicole.schaefer @andrew.khang @marta.amargant
+C08JZ2VK2GG  arch  #whitelotus (archived)
+C08K30VSURL  -     Group: @conrado.canas @andrew.khang @ryan.hendrickson
+C08K5SJHZU2  arch  #project-usdhl (archived)
+C08KJGR8WRK  -     Group: @andrew.khang @alessandro.antonelli @jacqueline.to
+C08KRSVMK3K  -     Group: @greg @andrew.khang @kdara
+C08L9P5FFHU  -     Group: @greg @andrew.khang @hubert.newell
+C08LF93LR0D  -     🔒 hiring-product-design
+C08LHQ2SSBC  -     Group: @frederic.hannesen @carloalberto.verona @luca @andrew.khang
+C08LJH2G00H  -     Group: @andrew.khang @antonina.norair @ryan.hendrickson @rafael.weninger
+C08LPCSJ09H  -     #solana-dev-alerts
+C08LRN61MDF  -     Group: @frederic.hannesen @carloalberto.verona @luca @andrew.khang @greg
+C08M2PFTLTG  -     Group: @marta.amargant @joao.reginatto @andrew.khang
+C08M4U6AP16  -     🔒 project-cayman-spv
+C08MD07LVKP  -     Group: @marta.amargant @luca @greg @andrew.khang
+C08MDLNTV7F  arch  #product-engineering (archived)
+C08MG9CAATG  -     #nyc
+C08MRUHS77X  -     🔒 project-anchorage
+C08MS4NKNTC  -     Group: @greg @luca @antonina.norair @andrew.khang @joao.reginatto @marta.amargant
+C08MV9C4U31  -     Group: @marta.amargant @andrew.khang @nicole.schaefer @andrei.evdokimov
+C08N1MMR5HD  arch  #nyc-events (archived)
+C08NR04Q221  -     Group: @andrew.khang @vladimir.vecgailis @alessandro.rosmo @nicole.schaefer
+C08NSV89DQC  arch  #token2049-dubai (archived)
+C08NT1XSBGS  -     #solana-alerts
+C08NWDQUJ1M  -     #notifications-mxon-transfers
+C08P9SF5NSY  -     Group: @andrew.khang @paul.barskiy @carloalberto.verona
+C08PBQZ58Q1  -     Group: @nicole.schaefer @andrew.khang @alessandro.rosmo
+C08PJ1P7J4W  arch  🔒 temp-it-incident-20250425 (archived)
+C08PJ65E0E8  -     #m0-chainlight-audits
+C08Q8AJEWN6  -     🔒 finance-strategy-marketing
+C08Q9JXMPTM  arch  🔒 confidential_antonello (archived)
+C08QBB9ETS8  -     Group: @nicole.schaefer @paul.barskiy @carloalberto.verona @joao.reginatto @andrew.khang
+C08QF9UJ75H  -     Group: @andrew.khang @antje.bechler @luca
+C08QG080H8S  arch  🔒 hiring-engineering-archived (archived)
+C08QHK433FD  -     Group: @andrew.khang @alessandro.antonelli @carloalberto.verona
+C08QJ0JS4TH  -     🔒 finance-committee
+C08QKS51CNQ  -     Group: @marta.amargant @luca @andrew.khang
+C08QWUH9C7R  arch  #full-stack-bug-reports (archived)
+C08RG1B14US  -     Group: @greg @ryan.hendrickson @andrew.khang
+C08RHCUFD9A  -     Group: @greg @ryan.hendrickson @andrew.khang @joao.reginatto @luca
+C08RRNR7KND  -     Group: @greg @ryan.hendrickson @andrew.khang @joao.reginatto
+C08RS2J14FM  -     Group: @andrew.khang @marta.amargant @nicole.schaefer @antje.bechler
+C08S0KHDLPL  -     Group: @carloalberto.verona @andrew.khang @jacqueline.to @hubert.newell
+C08S8DQR3NF  -     #notifications-arbitrum-liquidity
+C08SLTKUKD5  -     Group: @andrew.khang @andrei.evdokimov @ryan.hendrickson
+C08ST354P8S  -     Group: @antonina.norair @florian.preusner @andrew.khang
+C08ST35844S  -     Group: @antonina.norair @florian.preusner @andrew.khang @marta.amargant
+C08ST4UNS87  -     Group: @jacqueline.to @luca @greg @carloalberto.verona @andrew.khang
+C08SV88CMPW  -     Group: @andrew.khang @marco.hinz @carloalberto.verona
+C08SVQHPTRT  -     Group: @greg @luca @andrew.khang @ryan.hendrickson
+C08T1HP2ZNU  -     Group: @nicole.schaefer @andrew.khang @ossie
+C08T50T26MP  -     Group: @andrew.khang @marco.hinz @carloalberto.verona @frederic.hannesen
+C08T63NLFC6  -     Group: @hubert.newell @luca @greg @andrew.khang
+C08TW5SER08  -     Group: @jacqueline.to @luca @greg @carloalberto.verona @andrew.khang @marco.hinz
+C08UFBY4CN6  -     Group: @antonina.norair @ryan.hendrickson @andrew.khang @antje.bechler @marta.amargant
+C08UK313VUG  -     Group: @andrew.khang @luca @greg @antonina.norair @carloalberto.verona
+C08V640JAP5  -     Group: @frederic.hannesen @andrew.khang @jacqueline.to @carloalberto.verona @hubert.newell @alessandro.antonelli
+C08V6HFQ9HC  -     Group: @carloalberto.verona @jacqueline.to @andrew.khang
+C08VB3823RB  -     Group: @jacqueline.to @hubert.newell @alessandro.antonelli @andrew.khang
+C08VCQVP90W  -     #m0-adevar-audits
+C090BQ3V8D8  arch  #project-platform-frontend-split (archived)
+C090LGJUC4F  -     #notifications-testing
+C090X174KK6  -     #notifications-noble-mainnet
+C0912QHEHEG  -     🔒 project-bridge
+C09171K3RFE  -     Group: @carloalberto.verona @frederic.hannesen @andrew.khang @paul.barskiy
+C09183HE9A6  -     Group: @ryan.hendrickson @nicole.schaefer @andrew.khang
+C091JNUJT0E  -     #notifications-team-fullstack
+C091KAAPG5D  -     🔒 finance-legal
+C091T3YPRNZ  arch  🔒 project-fogo (archived)
+C091UEYJTUK  -     #customer_insights
+C091V7VUCEQ  -     #project-moca
+C092JJQ2LKG  -     Group: @greg @joao.reginatto @antonina.norair @jacob.laufer @andrew.khang @luca @ryan.hendrickson
+C092K8HR6NB  -     Group: @carloalberto.verona @joao.reginatto @luca @greg @andrew.khang @paul.barskiy
+C092MSL67PZ  -     🔒 hiring-mxon
+C092QFC2LSU  -     🔒 m0-monday-morning-meeting
+C092UDAEGNQ  arch  #event-berlin-food-and-drinks-july (archived)
+C092Z55TGUV  -     🔒 hiring-bd
+C0930ME135G  -     Group: @andrew.khang @chelsea.benami @jacob.laufer @marlowe.johnson
+C0931KLT5NG  -     Group: @andrew.khang @chelsea.benami @jacob.laufer
+C0934G9QZUG  -     Group: @andrew.khang @marta.amargant @carloalberto.verona
+C093EAUV63W  -     Group: @luca @greg @andrew.khang @marta.amargant @chelsea.benami
+C093P9JUQUQ  -     Group: @andrew.khang @florian.preusner @nicole.schaefer
+C093QE674PQ  -     Group: @luca @greg @andrew.khang @carloalberto.verona @hubert.newell @alessandro.antonelli
+C093RE6CMGW  -     Group: @marta.amargant @chelsea.benami @andrew.khang
+C093RRF7YDA  -     🔒 hr-founders
+C09437VJXT3  -     Group: @alessandro.antonelli @andrew.khang @carloalberto.verona @hubert.newell
+C094FM350R2  arch  🔒 project-notion (archived)
+C094HPGUHPS  -     Group: @chelsea.benami @antonina.norair @andrew.khang
+C094LDYQEBC  -     🔒 temp-kyc-mxon
+C094MUBV5GV  -     Group: @andrew.khang @ryan.hendrickson @jacqueline.to
+C094P5BM3MY  -     #team-agents
+C0958PRMPPT  arch  #m0-porto-offsite (archived)
+C095UT3APJT  -     Group: @luca @andrew.khang @frederic.hannesen @chelsea.benami @thomas.scott
+C095ZPE39RP  -     Group: @carloalberto.verona @andrew.khang @frederic.hannesen @thomas.scott
+C096BPP8P45  -     🔒 a-project-mask
+C096NRD8D6F  arch  🔒 temp-wd (archived)
+C0970KWKY66  -     Group: @thomas.scott @greg @andrew.khang
+C0973GF5WLE  -     Group: @chelsea.benami @frederic.hannesen @andrew.khang
+C0979CW2K6J  -     Group: @thomas.scott @luca @greg @chelsea.benami @andrew.khang
+C097M47A28G  -     Group: @marta.amargant @frederic.hannesen @luca @andrew.khang
+C097M6GAJV7  -     Group: @thomas.scott @chelsea.benami @andrew.khang
+C097MTD932B  -     Group: @thomas.scott @andrew.khang @frederic.hannesen @greg @luca
+C097Q16STQ9  -     Group: @marta.amargant @carloalberto.verona @andrew.khang @chelsea.benami
+C097YQX0PR9  -     Group: @thomas.scott @andrew.khang @luca
+C097ZV4736U  -     Group: @thomas.scott @greg @andrew.khang @frederic.hannesen
+C0981TE0GAC  -     🔒 project-polymarket
+C0985T4T0F2  -     Group: @frederic.hannesen @thomas.scott @nicole.schaefer @joao.reginatto @andrew.khang
+C098B3Z18KF  -     Group: @andrew.khang @frederic.hannesen @thomas.scott
+C098HT5F5TJ  -     🔒 hiring-protocol-eng
+C098L0X0ZNX  -     Group: @carloalberto.verona @thomas.scott @andrew.khang
+C098LDXBHAS  -     Group: @andrew.khang @carloalberto.verona @paul.barskiy @alessandro.antonelli
+C098QMCB3HC  -     Group: @jacqueline.to @carloalberto.verona @andrew.khang @marta.amargant
+C098R9ZJAF2  -     Group: @thomas.scott @andrew.khang @frederic.hannesen @greg @luca @chelsea.benami
+C098SGH0WSC  -     🔒 finance-people
+C098TA3CA1G  -     Group: @marta.amargant @luca @andrew.khang @frederic.hannesen @chelsea.benami
+C098WCRMZQU  -     Group: @ryan.hendrickson @andrew.khang @thomas.scott @greg @jacob.laufer
+C098XFPQ7L7  -     Group: @luca @antje.bechler @alessandro.rosmo @andrew.khang @carloalberto.verona
+C098XT36726  arch  🔒 hiring-mxon-eng (archived)
+C0999A589EJ  -     Group: @luca @antje.bechler @alessandro.rosmo @andrew.khang
+C099GPUJ5PS  -     Group: @frederic.hannesen @carloalberto.verona @greg @andrew.khang @ryan.hendrickson @thomas.scott
+C099JCRFUH3  -     #notifications-test-spam
+C099PU3L4JX  arch  🔒 hiring-move-eng (archived)
+C099UEVUYNM  -     Group: @luca @antje.bechler @alessandro.rosmo @andrew.khang @carloalberto.verona @greg
+C099V6QGW02  -     Group: @andrew.khang @antonina.norair @jordan.hall
+C099V9H69J9  arch  🔒 hiring-devops-eng (archived)
+C09A3GRQV3R  -     #project-minter-automations
+C09AYAMHXFD  -     Group: @carloalberto.verona @andrew.khang @frederic.hannesen @ryan.hendrickson @thomas.scott
+C09AYKS3TLJ  -     Group: @thomas.scott @luca @jacob.laufer @andrew.khang
+C09B5E9MTJA  -     #project-liquidity-delivery
+C09B6V9GNGZ  arch  #temp_token2049_2025 (archived)
+C09B9J79MKP  -     Group: @thomas.scott @chelsea.benami @andrew.khang @jacqueline.to
+C09BAE5K22K  -     Group: @thomas.scott @jacob.laufer @andrew.khang
+C09BJEYKU9Z  -     Group: @thomas.scott @jacob.laufer @andrew.khang @greg
+C09BRT3LSTD  -     Group: @andrew.khang @chelsea.benami @marta.amargant @alessandro.rosmo
+C09BRV1B2BZ  -     Group: @marlowe.johnson @alessandro.rosmo @andrew.khang @nicole.schaefer
+C09BSRFK0AK  -     Group: @andrew.khang @jacqueline.to @carloalberto.verona @hubert.newell @alessandro.antonelli
+C09BY02DC5D  -     Group: @antonina.norair @chelsea.benami @andrew.khang @greg
+C09C2RQD1A5  -     Group: @thomas.scott @jacob.laufer @andrew.khang @greg @frederic.hannesen @carloalberto.verona
+C09C2V4U7PT  -     Group: @thomas.scott @jacob.laufer @joao.reginatto @luca @greg @andrew.khang
+C09C88AKSEB  -     Group: @antonina.norair @antonello.simeon @andrew.khang @alessandro.rosmo @nicole.schaefer
+C09CFN1QT45  -     Group: @thomas.scott @greg @luca @andrew.khang
+C09CHK2G2N6  -     Group: @thomas.scott @greg @luca @andrew.khang @carloalberto.verona
+C09CK8AC1DZ  -     Group: @nicole.schaefer @andrew.khang @antonello.simeon
+C09CKHTBR38  -     #notifications-musd
+C09CLKC83TP  -     Group: @andrew.khang @antonina.norair @carloalberto.verona @greg
+C09CM9ZBC1M  -     #notifications-musd-bridge-m0
+C09CN791W3E  arch  #project-extension-vault (archived)
+C09CRM6P6CQ  -     #notifications-fireblocks-transactions
+C09D2DGNP7T  -     Group: @andrew.khang @antonina.norair @carloalberto.verona
+C09D58B33E1  arch  🔒 anchorage-m0 (archived)
+C09DBM45PRB  -     Group: @thomas.scott @marco.hinz @frederic.hannesen @andrew.khang @luca @greg @carloalberto.verona
+C09DFLBHPBN  -     Group: @andrew.khang @carloalberto.verona @hubert.newell
+C09DHJ4MXQ8  -     Group: @nicole.schaefer @antonina.norair @andrew.khang
+C09DK7SN6FL  -     #notifications-musd-staging
+C09DS3RC7DX  -     Group: @andrew.khang @carloalberto.verona @thomas.scott @luca
+C09DX4UGABW  -     Group: @thomas.scott @greg @ryan.hendrickson @andrew.khang
+C09DX4VN0MS  -     Group: @jacqueline.to @luca @greg @antonina.norair @andrew.khang @jacob.laufer @hubert.newell @ryan.hendrickson @thomas.scott
+C09DYV7J5JB  -     Group: @thomas.scott @frederic.hannesen @andrew.khang @carloalberto.verona @jacqueline.to
+C09DZHZ0VAM  arch  #notifications-musd-bridge-m0-staging (archived)
+C09E4FABYFJ  arch  🔒 temp-careers-page (archived)
+C09E9DQDRPV  -     Group: @thomas.scott @jacqueline.to @marco.hinz @carloalberto.verona @frederic.hannesen @andrew.khang
+C09EV0WH2SE  -     Group: @andrew.khang @hubert.newell @jacqueline.to
+C09F8GDRXGR  -     Group: @andrew.khang @hubert.newell @jacqueline.to @chelsea.benami
+C09FPGQES58  -     Group: @marco.hinz @andrew.khang @frederic.hannesen
+C09FR4ZML5S  -     Group: @andrew.khang @marco.hinz @alessandro.rosmo
+C09FYFWE7SM  arch  #project-sui-m (archived)
+C09G4BVP4HZ  -     Group: @thomas.scott @andrew.khang @chelsea.benami @frederic.hannesen
+C09G559B2JV  -     Group: @andrew.khang @greg @marco.hinz
+C09GNRY6QMP  -     Group: @thomas.scott @andrew.khang @chelsea.benami @frederic.hannesen @greg
+C09GTVBUPTM  -     Group: @thomas.scott @antje.bechler @frederic.hannesen @andrew.khang @carloalberto.verona
+C09H0TQL4JW  -     Group: @thomas.scott @paul.barskiy @carloalberto.verona @chelsea.benami @andrew.khang
+C09H39RD612  -     Group: @thomas.scott @antje.bechler @frederic.hannesen @andrew.khang
+C09H3AXVA75  arch  🔒 hiring-target-candidates (archived)
+C09HEQ6VDTR  -     Group: @carloalberto.verona @antje.bechler @edgar.caceres856 @paul.barskiy @frederic.hannesen @andrew.khang @hubert.newell @jacqueline.to
+C09HLJJ3G6R  -     Group: @frederic.hannesen @andrew.khang @jacqueline.to
+C09HPT0G1QB  -     Group: @carloalberto.verona @antje.bechler @edgar.caceres856 @paul.barskiy @frederic.hannesen @andrew.khang @hubert.newell
+C09HY2GGB39  -     🔒 project-moonpay
+C09J0FE0FKL  -     Group: @andrew.khang @luca @greg @jacqueline.to @marco.hinz @jacob.laufer @carloalberto.verona
+C09J0GJHPNG  -     Group: @carloalberto.verona @antje.bechler @edgar.caceres856 @paul.barskiy @frederic.hannesen @andrew.khang
+C09J1EDG1RD  -     Group: @thomas.scott @antonina.norair @greg @carloalberto.verona @paul.barskiy @frederic.hannesen @andrew.khang
+C09J329MCG4  arch  #temp-devcon-buenos-aires (archived)
+C09J4Q4PNDA  -     Group: @andrew.khang @luca @greg @jacqueline.to @marco.hinz
+C09J9L90KK6  -     Group: @nicole.schaefer @jacqueline.to @frederic.hannesen @luca @greg @andrew.khang @joao.reginatto @ryan.hendrickson @thomas.scott
+C09JDHYSZ4Z  -     Group: @andrew.khang @luca @greg @jacqueline.to @marco.hinz @jacob.laufer
+C09K0KJU23U  -     Group: @andrew.khang @alessandro.rosmo @chelsea.benami
+C09K6TN1MSR  -     Group: @thomas.scott @ryan.hendrickson @joao.reginatto @marco.hinz @andrew.khang
+C09KDTZHWKW  -     Group: @thomas.scott @ryan.hendrickson @joao.reginatto @marco.hinz @andrew.khang @frederic.hannesen
+C09KGNM8QD9  arch  #temp-nyc-october-13-17 (archived)
+C09KHMB2F6X  -     Group: @andrew.khang @jacob.laufer @marlowe.johnson @connor.lango
+C09KHMHJPUK  -     #notifications-mxon
+C09KNU8K5MF  -     Group: @andrew.khang @ryan.hendrickson @marlowe.johnson
+C09KQ475Y4S  -     Group: @andrew.khang @jacob.laufer @marlowe.johnson @connor.lango @lyle.lacour
+C09KST5L12P  arch  🔒 temp-nyc-lease (archived)
+C09KWH8HJRY  -     Group: @andrew.khang @nicole.schaefer @chelsea.benami
+C09L0H5CF8Q  -     🔒 project-1money
+C09L0M8NQEP  arch  #offsite-devcon-bsas-engineering (archived)
+C09L3NKP10Q  arch  🔒 temp-hiring-paralegal (archived)
+C09LG62RCUQ  -     #hiring-backend-eng
+C09LJBY3ERE  -     #notifications-minter-alpha
+C09LNDRAUH3  -     Group: @thomas.scott @chelsea.benami @andrew.khang @jacqueline.to @carloalberto.verona
+C09M4SJ8RJB  -     🔒 project-paypal
+C09MASV9B35  -     Group: @thomas.scott @ryan.hendrickson @antonina.norair @andrew.khang @jacqueline.to @jacob.laufer @carloalberto.verona
+C09MDR6SW5B  -     Group: @thomas.scott @ryan.hendrickson @antonina.norair @andrew.khang @jacqueline.to @jacob.laufer @carloalberto.verona @chelsea.benami
+C09MH9C55KL  -     Group: @thomas.scott @ryan.hendrickson @antonina.norair @andrew.khang @jacqueline.to @jacob.laufer
+C09MM3GTE13  -     #website-revisions
+C09MN1KMR1U  -     Group: @alessandro.rosmo @andrew.khang @carloalberto.verona
+C09N57R690E  arch  🔒 hiring-backend_eng (archived)
+C09N6K3A0S1  -     Group: @frederic.hannesen @andrew.khang @thomas.scott @antje.bechler @carloalberto.verona @marco.hinz
+C09N8GTTSDT  -     🔒 project-arbitrum
+C09NDARGRPX  -     Group: @thomas.scott @frederic.hannesen @marco.hinz @carloalberto.verona @andrew.khang @paul.barskiy
+C09NNNNFM5J  arch  🔒 temp-hiring-seniorcounsel (archived)
+C09NW03BTQE  arch  🔒 hiring-hr-generalist (archived)
+C09P00K9SKD  -     🔒 mnda-mou-signature
+C09PZFP9SFQ  -     #project-minter-tools
+C09Q1QEH734  -     🔒 temp-hiring-marketing
+C09QB2VHCMV  -     Group: @antje.bechler @jacob.laufer @joao.reginatto @greg @andrew.khang @carloalberto.verona
+C09QL6TNUGK  -     #temp-solver-onboarding
+C09QSFYLKM0  -     Group: @antje.bechler @joao.reginatto @jacob.laufer @greg @andrew.khang @mportalnotificationsm @proposalnotifications @hubert.newell
+C09QXFYF3BQ  -     🔒 eligible-collateral-developments
+C09R2ALQF33  -     Group: @frederic.hannesen @andrew.khang @carloalberto.verona @antje.bechler
+C09R5D4Q7LM  -     Group: @frederic.hannesen @luca @greg @thomas.scott @andrew.khang @jacqueline.to @carloalberto.verona
+C09R5D6FFT7  -     Group: @frederic.hannesen @luca @greg @thomas.scott @andrew.khang @jacqueline.to @carloalberto.verona @marco.hinz @antje.bechler
+C09RB7MFSUD  -     Group: @chelsea.benami @andrew.khang @alessandro.rosmo @jacqueline.to @frederic.hannesen @carloalberto.verona @thomas.scott
+C09RLPGHKMW  -     Group: @antje.bechler @joao.reginatto @jacob.laufer @greg @andrew.khang
+C09RR892NM7  -     Group: @paul.barskiy @agustin.zulliger @carloalberto.verona @andrew.khang @alessandro.antonelli
+C09RWS4PUGG  arch  🔒 temp-nov-board-prep (archived)
+C09S338T4KZ  -     #notifications-spv-alpha
+C09S35Z6CHW  -     Group: @frederic.hannesen @luca @greg @thomas.scott @andrew.khang @jacqueline.to
+C09S8V3K2GG  -     Group: @frederic.hannesen @alessandro.rosmo @andrew.khang @carloalberto.verona @thomas.scott
+C09T2ULSXHP  -     Group: @andrew.khang @carloalberto.verona @chelsea.benami
+C09TE25H4KS  -     #agents-testing
+C09TL0KQCQ2  -     🔒 hiring-senior-counsel
+C09TTHZ8603  -     🔒 project-moneygram
+C09UGSN12SK  -     #project-daylight
+C09UPDQEWLR  -     Group: @paul.barskiy @conrado.canas @carloalberto.verona @andrew.khang
+C09UYUQUH39  -     #project-collateral-api
+C09V7C7G2UF  -     #team-eng-mxon
+C0A00535NCW  -     🔒 temp-revamp-ecosystem-agreements
+C0A0NEP2KJP  -     🔒 temp-head-of-insti-sales-hiring
+C0A1C6PF90E  -     🔒 project-telegram
+C0A1G2QG9L3  -     Group: @paul.barskiy @andrew.khang @alessandro.rosmo @carloalberto.verona @chelsea.benami @emily.hitchins
+C0A1HMRMHCZ  -     🔒 m0-northstar
+C0A1L9BKDUK  -     Group: @jacqueline.to @andrew.khang @matthew.struble
+C0A1Q1FGJG5  -     #notifications-mxon-test
+C0A1QBVBN8Y  arch  🔒 temp-new-tools (archived)
+C0A29GR7KFH  -     Group: @alessandro.rosmo @antonina.norair @luca @greg @andrew.khang
+C0A2B2KPGUT  -     #notifications-blockaid
+C0A2NLUKCV6  -     Group: @alessandro.rosmo @antonina.norair @andrew.khang @chelsea.benami
+C0A2UPASL9Z  -     Group: @andrew.khang @antje.bechler @carloalberto.verona
+C0A2ZTJTKV3  -     #notifications-musd-blockaid
+C0A35J94R1B  -     Group: @alessandro.rosmo @andrew.khang @emily.hitchins @carloalberto.verona @paul.barskiy @antonina.norair @chelsea.benami
+C0A37BBNCDC  -     Group: @marlowe.johnson @andrew.khang @ryan.hendrickson @matt.jeye @federico.daffina
+C0A3CJYBBCL  -     Group: @alessandro.rosmo @andrew.khang @emily.hitchins @carloalberto.verona @paul.barskiy @antonina.norair
+C0A3U9R5MSS  -     Group: @carloalberto.verona @lyle.lacour @andrew.khang
+C0A3WFBD6D8  -     Group: @antje.bechler @nicole.schaefer @andrew.khang
+C0A3Z8Q07PA  -     Group: @andrew.khang @chelsea.benami @emily.hitchins
+C0A412T6M9P  -     🔒 ntk_m0-hyperlane
+C0A4B50MV8B  -     Group: @andrew.khang @greg @joao.reginatto
+C0A4CUUG11P  -     #project-streamflow
+C0A4JAY4K6X  -     🔒 hr-general-founders
+C0A4QNMH2D8  -     Group: @paul.barskiy @ryan.hendrickson @agustin.zulliger @conrado.canas @andrew.khang
+C0A572218GN  -     Group: @antonina.norair @paul.barskiy @andrew.khang
+C0A58102CRK  -     Group: @andrew.khang @ryan.hendrickson @antonina.norair @joao.reginatto
+C0A5886LX39  -     Group: @joao.reginatto @ryan.hendrickson @luca @greg @andrew.khang @antonina.norair
+C0A5K2HKDPA  -     Group: @paul.barskiy @ryan.hendrickson @agustin.zulliger @conrado.canas @andrew.khang @alessandro.antonelli
+C0A5K2JAQ4Q  -     Group: @paul.barskiy @ryan.hendrickson @agustin.zulliger @conrado.canas @andrew.khang @alessandro.antonelli @philip.tuomey
+C0A5K2KF4KA  -     Group: @jonathan.alvarez @agustin.zulliger @andrew.khang @conrado.canas @carloalberto.verona @alessandro.antonelli @ryan.hendrickson @paul.barskiy @philip.tuomey
+C0A5L3UAAGP  -     Group: @carloalberto.verona @emily.hitchins @andrew.khang
+C0A5MS3RGMP  -     Group: @antonina.norair @luca @greg @andrew.khang @goncalo
+C0A5RTHUFJB  -     Group: @andrew.khang @luca @jacqueline.to
+C0A6X74GK6K  -     Group: @ryan.hendrickson @joao.reginatto @andrew.khang
+C0A6Y2JNCKU  -     Group: @antonina.norair @greg @carloalberto.verona @andrew.khang @jordan.hall
+C0A74E1CGQ3  -     #project-exodus
+C0A7CNG4D5H  -     #project-protocol-api
+C0A7Y81DVBJ  -     #eng-knowledge-share
+C0A82K4TMKK  -     Group: @andrew.khang @jacqueline.to @josh
+C0A9YJKHBPT  -     Group: @jacqueline.to @andrew.khang @luca @greg
+C0AA3QLPXL6  -     Group: @andrew.khang @greg @antonina.norair @ryan.hendrickson @cdurbin @zkwartler
+C0AAXDYUNJD  -     Group: @matthew.struble @carloalberto.verona @andrew.khang
+C0ABG4XJPPT  -     Group: @greg @pierrick.turelier @antonina.norair @andrew.khang @luca
+C0ABWL4RB6C  -     Group: @joao.reginatto @jacob.laufer @ryan.hendrickson @andrew.khang
+C04JZ29NDCK  -     🔒 shared_m0-airfoil
+C067644S36E  -     #mzero-openzeppelin
+C06CX54PSHH  -     #m0-quantstamp
+C06Q8BQNM3P  -     🔒 fireblocks-m0foundation-support
+C079GGR7483  -     #m0-noble
+C07S7G64U84  -     🔒 m0-hifi
+C07SLBN0PUY  -     🔒 brale-m0
+C08FXBY14BY  -     🔒 m0-stablestudios
+C08L7JY7XKN  -     #m0-serotonin
+C09FRC7R0V6  -     #ext-musd-support
+C0993M3TL6S  -     #p-bridge-m0-gtm
+C09EDUDSKML  -     #fc-bridge-m0-noble
+C09D56XSV7X  -     🔒 ext-m0-anchorage
+C09DNTRHQ3H  -     🔒 meow_m0
+C09L0DFF6CE  -     #ext-m0-blockaid
+C0AA6R58NLX  -     Group: @apfalzgraf @plinkevicius @zkwartler @greg @andrew.khang
+C0A54A1EK27  -     🔒 moonpay-paypal-m0-p
+C0ACLN28A64  -     #ext_m0
+D0AAKUZLMDH  -     @<external>:U08RRLZ5EPL
+D0A9WP36LD8  -     @<external>:U0A9L6ZTFHA
+D0A9LG6BAHM  -     @<external>:U0A7P0B5AFJ
+D0A4NS0N53L  -     @<external>:U0713BRSS8G
+D0A38AZ70DB  -     @<external>:U0A0REAV8AY
+D0A2QJLQCJ2  -     @<external>:U0706J85QTX
+D0A0QNJD11C  -     @<external>:U0A1KNF3916
+D0A0QMDFHRU  -     @<external>:U09URBWT2EA
+D0A05NZE3GR  -     @<external>:U09UBEA9N5D
+D09V678SFH6  -     @<external>:U06RMBKP6PP
+D09UQA48UAD  -     @<external>:U09S76CJB7B
+D09S20AQE0L  -     @<external>:U09QQ68MRCH
+D09RUE5SHJ7  -     @<external>:U09RSK8Q91U
+D09R7R42Q5V  -     @<external>:U09Q97PRCMU
+D09PRM6NFG8  -     @<external>:U03NDV10ALS
+D09H67RJT8Q  -     @<external>:U08QNE1QAD6
+D09FDQJH7GC  -     @<external>:U09BXE6EXPH
+D09EBJGU3TJ  -     @<external>:U02CYDQN0HH
+D09DHL5JZAM  -     @<external>:U03UGU3GWSW
+D09BYT0SY9Y  -     @<external>:U09CQFFLPS4
+D098Z67GL7R  -     @<external>:U095T9HDYLR
+D094Q2TBVF1  -     @<external>:U095M2NPE3A
+D0930KSFKGR  -     @<external>:U092LBPB9Q9
+D091UV5RGG0  -     @<external>:U090C1FHGNT
+D090MGMUUMR  -     @<external>:U04RTBR3FU7
+D09043VMP9S  -     @<external>:U08PSH1D75G
+D08SN2SFZFZ  -     @<external>:U04RH448BFB
+D08N23ZFHM4  -     @<external>:U08LHHP34CB
+D08KVV93H98  -     @<external>:U08J230SDTJ
+D08KED9FCSZ  -     @<external>:U08HZ4VH92R
+D08GUUSF9U7  -     @<external>:U08DA5XLL6R
+D08DPJVST9N  -     @<external>:U08BTT74K1T
+D08D2HTGTUH  -     @<external>:U03FH2HVDD0
+D08CL7320RM  -     @<external>:U082XMZAZ61
+D08BDFZ0GVC  -     @<external>:U088BM9V0SZ
+D08APH5TA0K  -     @<external>:U087RTVJ9PA
+D088Q1G20N9  -     @<external>:U04SY8WEVG8
+D087FPG61LL  -     @<external>:U08715DFC13
+D083U1KHHJQ  -     @<external>:U07D1G5T86P
+D083GH209LM  -     @<external>:U08319YNQQJ
+D083E4XABGT  -     @<external>:U07C5Q7V0LR
+D07RU0RRUSC  -     @<external>:U04S2T8PT70
+D07JKD8K77H  -     @<external>:U04SQ8F475G
+D076HLE1VFC  -     @<external>:U07662VDH09
+D075YNWUGTS  -     @<external>:U073S1N8RD1
+D074PELGH5J  -     @<external>:U04S5JAE953
+D072C8AHDLY  -     @<external>:U0704FCAH4M
+D070UEZ380H  -     @<external>:U06LDNR9LP9
+D06UT1WVARG  -     @<external>:U04RTTNRLLF
+D06U9EG5SRM  -     @<external>:U05UU82T0EL
+D06SC3PU4CC  -     @<external>:U06QKGE95QD
+D06KA0ANLHE  -     @<external>:U06JEH80T6J
+D06JB1VQ32R  -     @<external>:U06JDRLEZ5Z
+D06HWCQPPT5  -     @<external>:U06J95U7D41
+D06HAK7GKT5  arch  @<external>:U06DXDCD5CN (archived)
+D06CEJCAW2K  -     @<external>:U06CPF8JKPE
+D069NLGHP45  -     @<external>:U069RJH8L5Q
+D068K9B95DY  -     @<external>:U068G0T2NPM
+D066J3HAZPG  -     @<external>:U066QNBT65Q
+D0666FGBL8H  -     @<external>:U065DAKS20P
+D065JPSHK4H  -     @<external>:U065655SC74
+D062YC0MZEJ  -     @<external>:U04SBQ7DBAS
+D0623867N8J  -     @<external>:U04SLNYJU2H
+D060RKLC02H  -     @<external>:U060MTUH11U
+D05U4SN9LCT  -     @<external>:U05CCDQHN4D
+D05RWJUUL81  -     @<external>:U05QH1K32P7
+D05RALVK6V6  -     @<external>:U05Q5CK9GUX
+D05R0PZBAF5  -     @<external>:U04RJHLHF6Z
+D05L94SEM37  -     @<external>:U04RMAZUQ3V
+D05L2893QUR  -     @<external>:U05KPK1FH5G
+D05KZJD7Q9X  -     @<external>:U05K6KSNR6J
+D05KY9QT44B  -     @<external>:U04SL0PMXUL
+D05JUVCMG94  -     @<external>:U051A0AFN22
+D05JM9WPQKY  -     @<external>:U04S30S0YJ3
+D05J81434Q3  -     @<external>:U055B7RDTSP
+D05GCG1AMAQ  -     @<external>:U05G3CV3WLW
+D05G3FN8S6A  -     @<external>:U05GNQBQ201
+D05ENDBGLJX  -     @<external>:U04RUC417CP
+D05DV9Z6BN3  -     @<external>:U05ENEXB0U9
+D05D69N43GA  -     @<external>:U05D3B6DQ05
+D05CZLZM26L  -     @<external>:U04RTH3BXJT
+D05C4456U3D  -     @<external>:U05C0S9GH45
+D05B3JURS5Q  -     @<external>:U04SYJEL6GY
+D05B2D7329J  -     @<external>:U04RU5JM215
+D05AX2NE8E9  -     @<external>:U04SA6DFM7E
+D05ATPS6L86  -     @<external>:U04V4HUU5E3
+D05ANL010DB  -     @<external>:U04S8G5PMDZ
+D05AG2Q9BRP  -     @<external>:U04S3GJV3QQ
+D05A4PPG4BZ  -     @<external>:U05AGTVQL2F
+D05A3DK77LJ  -     @<external>:U04RDRGPNR0
+D0595MQ3CKS  -     @<external>:U04S5SSJLS1
+D05950ZRVKN  -     @<external>:U04RMC44951
+D0594MNGC87  -     @<external>:U04S035EYN6
+D058ZEY0HNY  -     @<external>:U04R701NGBZ
+D058WHMJ3GA  -     @<external>:U04RMC3UWP5
+D058VHQT37Z  -     @<external>:U04RQ01LBEY
+D058VBRSVC5  -     @<external>:U04R701T95M
+D058US537NH  -     @<external>:U04RMFQBZ5G
+D058MTG8ZCP  -     @<external>:U04RMJCTXGS
+D058FGWDR7D  -     @<external>:USLACKBOT
+D05892R0D9C  -     @<external>:U058J5MH160
+D05814VNT47  -     @<external>:U04S32LPR71

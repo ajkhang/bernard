@@ -1,0 +1,10 @@
+# Sensitive files
+*.zip
+slackdump_*.zip
+
+# Temp files
+*.tmp
+.DS_Store
+
+# Don't commit large dumps
+*.jsonl
