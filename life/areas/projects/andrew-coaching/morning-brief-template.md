@@ -44,10 +44,9 @@ Skip if nothing meaningful to highlight.
 
 ---
 
-### 💰 Token Spend
+### 💰 Bernard Spend
 
 Yesterday: $X.XX
-Month to date: $XX.XX (XX% of $200 budget)
 Projected monthly: $XXX
 
 ---

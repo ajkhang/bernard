@@ -1,9 +1,3 @@
 {
-  "monthlyBudget": 200,
-  "billingCycleStart": "2026-01-01",
-  "dailySpend": [],
-  "currentMonth": {
-    "totalSpend": 0,
-    "daysTracked": 0
-  }
+  "dailySpend": []
 }
