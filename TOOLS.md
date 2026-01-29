@@ -69,4 +69,37 @@ Things like:
 
 ---
 
+## QMD (Quick Markdown Search)
+
+Local search engine for markdown files. Indexes once, searches instant.
+
+**Install location:** `~/.bun/bin/qmd`
+**Index:** `~/.cache/qmd/index.sqlite`
+
+### Collections
+- `workspace` → `/Users/bernard/clawd/**/*.md` (25 files)
+
+### Quick Commands
+```bash
+# Search (instant, keyword-based)
+qmd search "query"
+qmd search "query" -c workspace -n 10
+
+# Get specific doc
+qmd get "qmd://workspace/path/to/file.md"
+
+# Update index after adding files
+qmd update
+
+# Status
+qmd status
+```
+
+### Notes
+- BM25 search is instant — use by default
+- Semantic search (`vsearch`) requires embeddings and is slower
+- Run `qmd embed` if you want semantic search (downloads ~2GB models first time)
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
