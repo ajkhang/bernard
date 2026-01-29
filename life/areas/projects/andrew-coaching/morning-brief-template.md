@@ -42,6 +42,16 @@ Skip if nothing meaningful to highlight.
 
 ---
 
+---
+
+### 💰 Token Spend
+
+Yesterday: $X.XX
+Month to date: $XX.XX (XX% of $200 budget)
+Projected monthly: $XXX
+
+---
+
 ### Keep it:
 - Concise (readable in 2-3 minutes)
 - Actionable (what to do, not just what happened)
