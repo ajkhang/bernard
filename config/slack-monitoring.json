@@ -46,9 +46,25 @@
       {"id": "C08RHCUFD9A", "name": "Group: @greg @ryan.hendrickson @andrew.khang @joao.reginatto @luca"}
     ]
   },
+  "direct_messages": [
+      {"userId": "U04R701NGBZ", "name": "Luca"},
+      {"userId": "U04RMFQBZ5G", "name": "Greg"},
+      {"userId": "U05D3B6DQ05", "name": "Joao"}
+    ]
+  },
   "schedule": {
     "frequency": "daily",
     "times": ["07:00", "18:00"],
     "lookbackHours": 24
+  },
+  "processing": {
+    "triage": {
+      "model": "claude-3-haiku-20240307",
+      "purpose": "Scan messages, flag threads that are: leadership-relevant, involve Andrew, have coaching moments, or need attention"
+    },
+    "deepAnalysis": {
+      "model": "claude-opus-4",
+      "purpose": "Only for flagged threads - full coaching analysis, pattern recognition"
+    }
   }
 }
