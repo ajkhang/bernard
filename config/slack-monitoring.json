@@ -1,0 +1,54 @@
+{
+  "description": "Slack channels to monitor for coaching and context",
+  "lastUpdated": "2026-01-29",
+  "channels": {
+    "leadership": [
+      {"id": "C04RU4QSNGJ", "name": "ecosystem-leadership"},
+      {"id": "C06HFSW17EE", "name": "ecosystem-dev"},
+      {"id": "C06E4BG0W3V", "name": "ecosystem-ops"},
+      {"id": "C0A1HMRMHCZ", "name": "m0-northstar"}
+    ],
+    "hiring": [
+      {"id": "C09TL0KQCQ2", "name": "hiring-senior-counsel"},
+      {"id": "C0A0NEP2KJP", "name": "temp-head-of-insti-sales-hiring"}
+    ],
+    "office": [
+      {"id": "C08MG9CAATG", "name": "nyc"}
+    ],
+    "projects": [
+      {"id": "C060V96KCSV", "name": "project-portfolio-optimisation"},
+      {"id": "C071Z6W10TY", "name": "project-validator-chronicle"},
+      {"id": "C077DACC4TH", "name": "project-multichain"},
+      {"id": "C077R2BQTD3", "name": "project-extensions"},
+      {"id": "C0783P2R0MB", "name": "project_validator-chainlink"},
+      {"id": "C07NFLA7814", "name": "project-fireblocks-api-signer"},
+      {"id": "C07S50DTJ4B", "name": "project-earner-yield-tracking"},
+      {"id": "C083U912FND", "name": "project-solana-m"},
+      {"id": "C091V7VUCEQ", "name": "project-moca"},
+      {"id": "C09A3GRQV3R", "name": "project-minter-automations"},
+      {"id": "C09B5E9MTJA", "name": "project-liquidity-delivery"},
+      {"id": "C09PZFP9SFQ", "name": "project-minter-tools"},
+      {"id": "C09UGSN12SK", "name": "project-daylight"},
+      {"id": "C09UYUQUH39", "name": "project-collateral-api"},
+      {"id": "C0A4CUUG11P", "name": "project-streamflow"},
+      {"id": "C0A74E1CGQ3", "name": "project-exodus"},
+      {"id": "C0A7CNG4D5H", "name": "project-protocol-api"}
+    ],
+    "leadership_groups_priority": [
+      {"id": "C08EBG3LDC4", "name": "Group: @andrew.khang @luca @greg"},
+      {"id": "C05Q78SD679", "name": "Group: @antonina.norair @greg @luca @andrew.khang"},
+      {"id": "C05QP4P1VNJ", "name": "Group: @luca @joao.reginatto @andrew.khang"},
+      {"id": "C06CQ1K4EAX", "name": "Group: @joao.reginatto @luca @greg @andrew.khang"},
+      {"id": "C07JADDQ65Q", "name": "Group: @andrew.khang @luca @greg @oliver"},
+      {"id": "C08UK313VUG", "name": "Group: @andrew.khang @luca @greg @antonina.norair @carloalberto.verona"},
+      {"id": "C092JJQ2LKG", "name": "Group: @greg @joao.reginatto @antonina.norair @jacob.laufer @andrew.khang @luca @ryan.hendrickson"},
+      {"id": "C08MS4NKNTC", "name": "Group: @greg @luca @antonina.norair @andrew.khang @joao.reginatto @marta.amargant"},
+      {"id": "C08RHCUFD9A", "name": "Group: @greg @ryan.hendrickson @andrew.khang @joao.reginatto @luca"}
+    ]
+  },
+  "schedule": {
+    "frequency": "daily",
+    "times": ["07:00", "18:00"],
+    "lookbackHours": 24
+  }
+}

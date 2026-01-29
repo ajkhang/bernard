@@ -34,9 +34,18 @@
 - Log ideas to `life/areas/projects/self-funding/items.json`
 - Prioritize: cost savings > productivity gains > revenue ideas
 
+## Slack Monitoring (Daily - 7am & 6pm)
+Pull messages from monitored channels (see `config/slack-monitoring.json`):
+1. Leadership channels: ecosystem-leadership, ecosystem-dev, ecosystem-ops, m0-northstar
+2. Hiring: hiring-senior-counsel, temp-head-of-insti-sales-hiring
+3. NYC office channel
+4. All #project-* channels
+5. Priority leadership group DMs (Luca, Greg, Joao combinations)
+
+Use slackdump to pull last 24h of messages. Store observations in knowledge graph.
+
 ## Andrew Coaching (Daily)
-When Andrew is active, periodically review recent Slack conversations:
-1. Use slackdump to pull recent messages from key leadership channels
-2. Look for: assert/defer patterns, missed opportunities to lead, strategic vs operational framing
-3. If a teachable moment is found, send targeted coaching feedback via Telegram
-4. Track observations in `life/areas/projects/andrew-coaching/`
+When reviewing Slack:
+1. Look for: assert/defer patterns, missed opportunities to lead, strategic vs operational framing
+2. If a teachable moment is found, note it for morning brief
+3. Track observations in `life/areas/projects/andrew-coaching/`
