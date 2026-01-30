@@ -49,3 +49,13 @@ When reviewing Slack:
 1. Look for: assert/defer patterns, missed opportunities to lead, strategic vs operational framing
 2. If a teachable moment is found, note it for morning brief
 3. Track observations in `life/areas/projects/andrew-coaching/`
+
+## Daily Retrospective (Evening)
+At end of day (~6pm or last heartbeat before midnight):
+1. **What went well?** — Tasks completed, good decisions, wins
+2. **What didn't go well?** — Mistakes, inefficiencies, missed opportunities
+3. **Areas to improve** — Skills, processes, knowledge gaps
+4. **Experiment to try** — One new thing for tomorrow (skill, tool, approach)
+
+Log to `life/areas/projects/self-improvement/items.json`
+Surface experiment recommendation in morning brief

@@ -51,6 +51,13 @@ Projected monthly: $XXX
 
 ---
 
+### 🧪 Today's Experiment
+
+One thing I'm trying today to get better:
+[Experiment description + why]
+
+---
+
 ### Keep it:
 - Concise (readable in 2-3 minutes)
 - Actionable (what to do, not just what happened)
