@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "retro-2026-01-29",
+    "date": "2026-01-29",
+    "type": "daily-retro",
+    "wentWell": [
+      "Set up complete memory system (knowledge graph, daily notes, MEMORY.md)",
+      "Connected email monitoring via AppleScript",
+      "Installed and configured qmd for local search",
+      "Set up GitHub repo for PR workflow",
+      "Implemented cost-saving Haiku triage for Slack",
+      "Good collaboration rhythm with Andrew - direct, no fluff"
+    ],
+    "didntGoWell": [
+      "Haiku model name wrong initially (claude-3-5-haiku-latest doesn't exist)",
+      "AppleScript email queries slow and sometimes timing out",
+      "Didn't operationalize Slack monitoring from start - waited for Andrew to ask",
+      "Should have been more proactive about scheduled tasks vs just building capabilities"
+    ],
+    "areasToImprove": [
+      "Be more proactive - don't wait to be asked",
+      "Test things before claiming they work",
+      "Build automation scripts, not just configurations",
+      "Track token costs more precisely"
+    ],
+    "experiment": {
+      "name": "Use qmd to search daily notes for pattern recognition",
+      "hypothesis": "Can speed up context recall and find patterns across days",
+      "status": "planned"
+    }
+  }
+]
